@@ -305,8 +305,89 @@ def build():
     import gfxtl
     n, t = gfxtl.apply_all(rom)
     print('images: %d edited (%d tiles/objs written)' % (n, t))
-    rom.saveToFile(OUT_ROM)
+    if os.environ.get('KR_NO_ARM9'):
+        rom.arm9 = load_rom().arm9; print('TEST BUILD: original ARM9 kept')
+    out = write_in_place(rom)
+    with open(OUT_ROM, 'wb') as f: f.write(out)
     print('wrote', OUT_ROM)
+
+
+def write_in_place(rom):
+    """Write the modified ROM over a copy of the original image, keeping the original layout.
+
+    Header, ARM7, overlays, FNT, icon and every unchanged file stay at their original offsets.
+    A changed file is written at its old offset when it fits in its old slot (up to the next item);
+    otherwise it goes into the free 0xFF area after the original data. Only FAT entries change."""
+    img = bytearray(open(SRC_ROM, 'rb').read())
+    orig = load_rom()
+    hdr = bytes(img[:0x200])
+    fat_off, fat_size = struct.unpack_from('<II', hdr, 0x48)
+    arm9_off, arm9_size = struct.unpack_from('<I', hdr, 0x20)[0], struct.unpack_from('<I', hdr, 0x2C)[0]
+    used = struct.unpack_from('<I', hdr, 0x80)[0]
+    # ARM9: same offset, padded to the original size (decompression uses the module-params end pointer)
+    a9 = bytes(rom.arm9)
+    if len(a9) > arm9_size: raise SystemExit('ARM9 grew (%d > %d)' % (len(a9), arm9_size))
+    img[arm9_off:arm9_off + arm9_size] = a9 + bytes(arm9_size - len(a9))
+    # occupied regions, to know how big each file's slot is
+    nfiles = fat_size // 8
+    fat = [struct.unpack_from('<II', img, fat_off + 8 * i) for i in range(nfiles)]
+    starts = sorted({s for s, e in fat if e > s} | {struct.unpack_from('<I', hdr, o)[0] for o in (0x20, 0x30, 0x40, 0x48, 0x50, 0x58, 0x68)} | {used})
+    import bisect
+    free = (used + 0x1FF) & ~0x1FF
+    moved = inplace = 0
+    for i, (s, e) in enumerate(fat):
+        new = bytes(rom.files[i])
+        if i < len(orig.files) and new == bytes(orig.files[i]): continue
+        nxt = starts[bisect.bisect_right(starts, s)] if bisect.bisect_right(starts, s) < len(starts) else len(img)
+        if e > s and len(new) <= nxt - s:
+            img[s:nxt] = new + b'\xff' * (nxt - s - len(new)); inplace += 1
+            struct.pack_into('<II', img, fat_off + 8 * i, s, s + len(new))
+        else:
+            if free + len(new) > len(img): raise SystemExit('no free space left in the ROM image')
+            img[free:free + len(new)] = new
+            struct.pack_into('<II', img, fat_off + 8 * i, free, free + len(new)); moved += 1
+            free = (free + len(new) + 0x1FF) & ~0x1FF
+    assert img[:0x4000] == open(SRC_ROM, 'rb').read(0x4000), 'header changed'
+    print('in-place write: %d files in their old slot, %d moved to free space (end %d)' % (inplace, moved, free))
+    return bytes(img)
+
+
+def crc16(data):
+    crc = 0xFFFF
+    for b in data:
+        crc ^= b
+        for _ in range(8): crc = (crc >> 1) ^ 0xA001 if crc & 1 else crc >> 1
+    return crc
+
+
+def keep_original_header(rom):
+    """Make the ROM header byte-identical to the original Japanese ROM.
+
+    Flashcart kernels and nds-bootstrap (TWiLight Menu++) pick their anti-piracy fix by game code +
+    header CRC16. If the header changes, no AP fix is applied and the game's anti-piracy kicks in.
+    Only two header fields would change: the ARM9 size (our recompressed ARM9 is smaller) and the
+    used-ROM size. We pad the ARM9 back to its original length (decompression uses the end pointer
+    in the module params, not the size field, so trailing zeros are ignored) and pad the file."""
+    orig = open(SRC_ROM, 'rb').read(0x4000)
+    o_arm9 = struct.unpack_from('<I', orig, 0x2C)[0]
+    o_used = struct.unpack_from('<I', orig, 0x80)[0]
+    if len(rom.arm9) > o_arm9:
+        raise SystemExit('ARM9 grew (%d > %d): header cannot match the original' % (len(rom.arm9), o_arm9))
+    rom.arm9 = bytes(rom.arm9) + bytes(o_arm9 - len(rom.arm9))
+    d = bytearray(rom.save())
+    used = struct.unpack_from('<I', d, 0x80)[0]
+    if used > o_used:
+        raise SystemExit('ROM data grew past the original used size (%d > %d)' % (used, o_used))
+    struct.pack_into('<I', d, 0x80, o_used)
+    if len(d) < o_used: d += b'\xff' * (o_used - len(d))
+    d[0x160:0x4000] = orig[0x160:0x4000]          # reserved header area (ndspy writes a stray value)
+    struct.pack_into('<H', d, 0x15E, crc16(d[:0x15E]))
+    if d[:0x4000] != orig:
+        diff = [hex(i) for i in range(0x4000) if d[i] != orig[i]]
+        print('WARN header still differs at', diff[:10])
+    else:
+        print('header identical to original (CRC16 %04X)' % struct.unpack_from('<H', d, 0x15E)[0])
+    return bytes(d)
 
 
 def arm9_sites(data, jp_bytes):
@@ -325,11 +406,13 @@ def arm9_sites(data, jp_bytes):
 
 
 def patch_arm9(rom):
-    import ndspy.code
+    import ndspy.codeCompression, blz
     tbl = jload(os.path.join(TL, 'arm9.json'), [])
     if not any(e.get('en') for e in tbl): return
-    m = ndspy.code.MainCodeFile(rom.arm9, rom.arm9RamAddress, rom.arm9CodeSettingsPointerAddress)
-    sec = m.sections[0]; data = bytearray(sec.data)
+    # Patch the decompressed image directly and recompress it to the original size, so the module
+    # params (compressedStaticEnd) and the header ARM9 size stay byte-identical (see tools/blz.py).
+    orig = bytes(rom.arm9)
+    data = bytearray(ndspy.codeCompression.decompress(orig))
     for e in tbl:
         if not e.get('en'): continue
         jb = e['jp'].encode(ENC); eb = enc(e['en'])
@@ -338,8 +421,7 @@ def patch_arm9(rom):
         for off, cap in sites:
             if len(eb) > cap: raise SystemExit('arm9: %r too long (%d > %d)' % (e['en'], len(eb), cap))
             data[off:off + cap + 1] = eb + b'\0' * (cap + 1 - len(eb))
-    sec.data = data
-    rom.arm9 = m.save(compress=True)
+    rom.arm9 = blz.compress_exact(bytes(data), len(orig))
 
 
 if __name__ == '__main__':

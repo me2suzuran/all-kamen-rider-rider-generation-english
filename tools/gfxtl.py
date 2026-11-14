@@ -50,7 +50,7 @@ def pack_save(rom, path):
 
 # ------------------------------------------------------------------ asset loading
 class Asset:
-    def __init__(self, rom, aid):
+    def __init__(self, rom, aid, char_ext=None):
         self.rom, self.aid = rom, aid
         name, _, cell = aid.partition('#')
         self.cell = int(cell) if cell else None
@@ -73,7 +73,7 @@ class Asset:
             self.chars = Chars(self._get(self.charf)); self.scr = Screen(self._get(self.scrf))
         else:
             self.cellf = self._p('.NCER')
-            self.charf = self._p('.NCGR') if self._exists('.NCGR') else self._p('.NCBR')
+            self.charf = self._p(char_ext or ('.NCGR' if self._exists('.NCGR') else '.NCBR'))
             self.chars = Chars(self._get(self.charf)); self.cells = Cells(self._get(self.cellf))
             self.oams = self.cells.cells[self.cell]
         self.pal = nclr(self._get(self._palette()))
@@ -360,6 +360,11 @@ def apply_all(rom, flt=None, preview=False):
             s.resize((s.width * 2, s.height * 2), Image.NEAREST).save(os.path.join(out, aid.replace('/', '__').replace('#', '_').replace(':', '_') + '.png'))
         else:
             total += a.store(new)
+            # some sprites ship both a tiled NCGR and a bitmap NCBR copy; the game may draw either
+            if a.cell is not None and not a.pack and a._exists('.NCGR') and a._exists('.NCBR'):
+                b = Asset(rom, aid, char_ext='.NCBR'); bo = b.render()
+                if bo.tobytes() != orig.tobytes(): print('WARN', aid, 'NCBR copy renders differently')
+                total += b.store(apply_ops(rom, bo, ops)[0])
     return len(specs), total
 
 

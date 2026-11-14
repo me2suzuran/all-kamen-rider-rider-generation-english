@@ -23,7 +23,7 @@ Requirements: Python 3.12, `pip install ndspy pillow numpy`, and the original RO
 ```bash
 python tools/krtl.py check      # validate text (length, pixel width, glyphs)
 python tools/krtl.py build      # writes "All Kamen Rider - Rider Generation (English).nds"
-python tools/mkbps.py make "All Kamen Rider - Rider Generation (Japan).nds" "All Kamen Rider - Rider Generation (English).nds" "patch/All Kamen Rider - Rider Generation (English) v1.0.bps"
+python tools/mkbps.py make "All Kamen Rider - Rider Generation (Japan).nds" "All Kamen Rider - Rider Generation (English).nds" "patch/All Kamen Rider - Rider Generation (English) v1.1.bps"
 ```
 
 ## Layout

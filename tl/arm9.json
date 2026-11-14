@@ -37,5 +37,6 @@
  {"jp": "にゅうりょくずみです", "en": "was already used."},
  {"jp": "パスワードがちがいます", "en": "Wrong password."},
  {"jp": "データをかけませんでした。\nデンゲンをきって、ＤＳカードを\nさしこみなおしてください", "en": "Could not save data.\nTurn the power off and\nreinsert the DS Card."},
- {"jp": "データをよめませんでした。\nデンゲンをきって、ＤＳカードを\nさしこみなおしてください", "en": "Could not load data.\nTurn the power off and\nreinsert the DS Card."}
+ {"jp": "データをよめませんでした。\nデンゲンをきって、ＤＳカードを\nさしこみなおしてください", "en": "Could not load data.\nTurn the power off and\nreinsert the DS Card."},
+ {"jp": "もっているかず%dこ　さいだい%dこ", "en": "Owned: %d   Max: %d"}
 ]
