@@ -1,0 +1,961 @@
+{
+ "ModeSelect/down_bg": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    16,
+    110,
+    29
+   ],
+   "mode": "h"
+  },
+  {
+   "op": "text",
+   "text": "EASY MODE",
+   "rect": [
+    26,
+    15,
+    110,
+    30
+   ],
+   "color": [
+    246,
+    255,
+    106
+   ],
+   "outline": [
+    24,
+    41,
+    57
+   ],
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    146,
+    16,
+    230,
+    29
+   ],
+   "mode": "h"
+  },
+  {
+   "op": "text",
+   "text": "NORMAL MODE",
+   "rect": [
+    146,
+    15,
+    230,
+    30
+   ],
+   "color": [
+    82,
+    255,
+    41
+   ],
+   "outline": [
+    24,
+    41,
+    57
+   ],
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    23,
+    113,
+    112,
+    129
+   ],
+   "mode": "row"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    23,
+    130,
+    112,
+    152
+   ],
+   "mode": "row"
+  },
+  {
+   "op": "text",
+   "text": "Play with",
+   "rect": [
+    23,
+    114,
+    112,
+    128
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "align": "left",
+   "dx": 2,
+   "bold": false
+  },
+  {
+   "op": "text",
+   "text": "simple controls",
+   "rect": [
+    23,
+    130,
+    112,
+    144
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "align": "left",
+   "dx": 2,
+   "bold": false
+  },
+  {
+   "op": "fill",
+   "rect": [
+    144,
+    112,
+    233,
+    125
+   ],
+   "mode": "row"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    144,
+    126,
+    233,
+    139
+   ],
+   "mode": "row"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    144,
+    140,
+    233,
+    151
+   ],
+   "mode": "row"
+  },
+  {
+   "op": "text",
+   "text": "You control",
+   "rect": [
+    144,
+    112,
+    233,
+    125
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "align": "left",
+   "dx": 2,
+   "bold": false
+  },
+  {
+   "op": "text",
+   "text": "everything",
+   "rect": [
+    144,
+    126,
+    233,
+    139
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "align": "left",
+   "dx": 2,
+   "bold": false
+  },
+  {
+   "op": "text",
+   "text": "yourself",
+   "rect": [
+    144,
+    140,
+    233,
+    152
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "align": "left",
+   "dx": 2,
+   "bold": false
+  },
+  {
+   "op": "fill",
+   "rect": [
+    85,
+    175,
+    117,
+    184
+   ],
+   "mode": "tile",
+   "from_x": 117,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "OK",
+   "rect": [
+    86,
+    174,
+    118,
+    185
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false,
+   "align": "left"
+  },
+  {
+   "op": "fill",
+   "rect": [
+    149,
+    175,
+    178,
+    184
+   ],
+   "mode": "tile",
+   "from_x": 178,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    149,
+    174,
+    182,
+    185
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false,
+   "align": "left"
+  }
+ ],
+ "ModeSelect/up_bg": [
+  {
+   "op": "fill",
+   "rect": [
+    38,
+    62,
+    218,
+    78
+   ],
+   "mode": "tile",
+   "from_y": 79,
+   "period_y": 3
+  },
+  {
+   "op": "fill",
+   "rect": [
+    38,
+    85,
+    218,
+    100
+   ],
+   "mode": "tile",
+   "from_y": 79,
+   "period_y": 3
+  },
+  {
+   "op": "fill",
+   "rect": [
+    38,
+    103,
+    218,
+    118
+   ],
+   "mode": "tile",
+   "from_y": 79,
+   "period_y": 3
+  },
+  {
+   "op": "text",
+   "text": "Choose a play mode",
+   "rect": [
+    38,
+    62,
+    218,
+    78
+   ],
+   "color": [
+    255,
+    238,
+    8
+   ],
+   "outline": null,
+   "shadow": [
+    8,
+    8,
+    24
+   ],
+   "bold": true,
+   "align": "left",
+   "dx": 4
+  },
+  {
+   "op": "text",
+   "text": "You can change the mode",
+   "rect": [
+    38,
+    85,
+    218,
+    100
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    8,
+    8,
+    24
+   ],
+   "bold": false,
+   "align": "left",
+   "dx": 4
+  },
+  {
+   "op": "text",
+   "text": "later during the game.",
+   "rect": [
+    38,
+    103,
+    218,
+    118
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    8,
+    8,
+    24
+   ],
+   "bold": false,
+   "align": "left",
+   "dx": 4
+  }
+ ],
+ "ModeSelect/down_etc#0": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    50,
+    13
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "OK",
+   "rect": [
+    15,
+    2,
+    51,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "ModeSelect/down_etc#1": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    50,
+    13
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    15,
+    2,
+    51,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "ModeSelect/down_etc#14": [
+  {
+   "op": "fill",
+   "rect": [
+    62,
+    10,
+    186,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     255,
+     238,
+     41
+    ],
+    [
+     139,
+     131,
+     82
+    ],
+    [
+     197,
+     180,
+     65
+    ],
+    [
+     148,
+     139,
+     90
+    ],
+    [
+     90,
+     90,
+     106
+    ],
+    [
+     82,
+     74,
+     106
+    ],
+    [
+     246,
+     230,
+     49
+    ],
+    [
+     205,
+     189,
+     65
+    ],
+    [
+     189,
+     172,
+     65
+    ],
+    [
+     106,
+     98,
+     98
+    ],
+    [
+     213,
+     197,
+     57
+    ],
+    [
+     172,
+     164,
+     74
+    ],
+    [
+     230,
+     213,
+     57
+    ],
+    [
+     164,
+     148,
+     82
+    ],
+    [
+     115,
+     106,
+     106
+    ],
+    [
+     205,
+     197,
+     82
+    ],
+    [
+     180,
+     172,
+     98
+    ],
+    [
+     106,
+     98,
+     148
+    ],
+    [
+     164,
+     156,
+     106
+    ],
+    [
+     139,
+     131,
+     115
+    ],
+    [
+     123,
+     131,
+     131
+    ],
+    [
+     90,
+     90,
+     164
+    ],
+    [
+     106,
+     115,
+     115
+    ],
+    [
+     106,
+     123,
+     123
+    ],
+    [
+     82,
+     82,
+     156
+    ]
+   ],
+   "tol": 30,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    72,
+    12,
+    84,
+    30
+   ],
+   "mode": "tile",
+   "from_x": 56,
+   "period_x": 16
+  },
+  {
+   "op": "fill",
+   "rect": [
+    60,
+    32,
+    196,
+    50
+   ],
+   "mode": "inpaint",
+   "min_luma": 120,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "EASY MODE",
+   "rect": [
+    72,
+    13,
+    176,
+    29
+   ],
+   "color": [
+    255,
+    238,
+    41
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "Play in this mode?",
+   "rect": [
+    50,
+    35,
+    206,
+    49
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    72,
+    64,
+    100,
+    75
+   ],
+   "mode": "tile",
+   "from_x": 100,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    62,
+    63,
+    110,
+    76
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    150,
+    64,
+    191,
+    75
+   ],
+   "mode": "tile",
+   "from_x": 191,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    146,
+    63,
+    194,
+    76
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "ModeSelect/down_etc#15": [
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    4,
+    102,
+    21
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     255,
+     41
+    ],
+    [
+     49,
+     139,
+     82
+    ],
+    [
+     57,
+     148,
+     90
+    ],
+    [
+     65,
+     197,
+     65
+    ],
+    [
+     32,
+     82,
+     98
+    ],
+    [
+     74,
+     205,
+     65
+    ],
+    [
+     49,
+     106,
+     98
+    ],
+    [
+     57,
+     123,
+     98
+    ],
+    [
+     74,
+     213,
+     57
+    ],
+    [
+     82,
+     246,
+     49
+    ],
+    [
+     65,
+     164,
+     82
+    ],
+    [
+     74,
+     230,
+     49
+    ],
+    [
+     57,
+     131,
+     90
+    ],
+    [
+     65,
+     172,
+     74
+    ],
+    [
+     74,
+     205,
+     82
+    ],
+    [
+     65,
+     189,
+     74
+    ],
+    [
+     74,
+     131,
+     148
+    ],
+    [
+     74,
+     180,
+     98
+    ],
+    [
+     74,
+     197,
+     90
+    ],
+    [
+     65,
+     139,
+     123
+    ]
+   ],
+   "tol": 30,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "NORMAL MODE",
+   "rect": [
+    0,
+    4,
+    104,
+    20
+   ],
+   "color": [
+    82,
+    255,
+    41
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "ModeSelect/down_etc#16": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "ModeSelect/down_etc#17": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "ModeSelect/down_etc#18": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "ModeSelect/down_etc#19": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ]
+}

@@ -1,0 +1,818 @@
+{
+ "_Data/Event/Script/ScriptName.bin": [
+  {
+   "jp": "１ごう",
+   "en": "Rider 1"
+  },
+  {
+   "jp": "２ごう",
+   "en": "Rider 2"
+  },
+  {
+   "jp": "Ｖ３",
+   "en": "V3"
+  },
+  {
+   "jp": "ライダーマン",
+   "en": "Riderman"
+  },
+  {
+   "jp": "Ｘ",
+   "en": "X"
+  },
+  {
+   "jp": "アマゾン",
+   "en": "Amazon"
+  },
+  {
+   "jp": "ストロンガー",
+   "en": "Stronger"
+  },
+  {
+   "jp": "スカイライダー",
+   "en": "Skyrider"
+  },
+  {
+   "jp": "スーパー１",
+   "en": "Super-1"
+  },
+  {
+   "jp": "ＺＸ",
+   "en": "ZX"
+  },
+  {
+   "jp": "ＢＬＡＣＫ",
+   "en": "BLACK"
+  },
+  {
+   "jp": "ＢＬＡＣＫ ＲＸ",
+   "en": "BLACK RX"
+  },
+  {
+   "jp": "シン",
+   "en": "Shin"
+  },
+  {
+   "jp": "ＺＯ",
+   "en": "ZO"
+  },
+  {
+   "jp": "Ｊ",
+   "en": "J"
+  },
+  {
+   "jp": "クウガ",
+   "en": "Kuuga"
+  },
+  {
+   "jp": "アギト",
+   "en": "Agito"
+  },
+  {
+   "jp": "りゅうき",
+   "en": "Ryuki"
+  },
+  {
+   "jp": "ファイズ",
+   "en": "Faiz"
+  },
+  {
+   "jp": "ブレイド",
+   "en": "Blade"
+  },
+  {
+   "jp": "ヒビキ",
+   "en": "Hibiki"
+  },
+  {
+   "jp": "カブト",
+   "en": "Kabuto"
+  },
+  {
+   "jp": "デンオウ",
+   "en": "Den-O"
+  },
+  {
+   "jp": "キバ",
+   "en": "Kiva"
+  },
+  {
+   "jp": "ディケイド",
+   "en": "Decade"
+  },
+  {
+   "jp": "Ｗ",
+   "en": "W"
+  },
+  {
+   "jp": "Ｗ（しょうたろう）",
+   "en": "W (Shotaro)"
+  },
+  {
+   "jp": "Ｗ（フィリップ）",
+   "en": "W (Philip)"
+  },
+  {
+   "jp": "オーズ",
+   "en": "OOO"
+  },
+  {
+   "jp": "バース",
+   "en": "Birth"
+  },
+  {
+   "jp": "ジェネラル・シャドウ",
+   "en": "General Shadow"
+  },
+  {
+   "jp": "ネオせいめいたい",
+   "en": "Neo-Organism"
+  },
+  {
+   "jp": "アポロガイスト",
+   "en": "Apollo Geist"
+  },
+  {
+   "jp": "シャドームーン",
+   "en": "Shadow Moon"
+  },
+  {
+   "jp": "ジュダ",
+   "en": "Juda"
+  },
+  {
+   "jp": "くずヤミー",
+   "en": "Waste Yummy"
+  },
+  {
+   "jp": "キバット",
+   "en": "Kivat"
+  }
+ ],
+ "_Data/WorldMap/narration.bin": [
+  {
+   "jp": "かこのセカイからあつめられた、",
+   "en": "The evil organizations, gathered"
+  },
+  {
+   "jp": "あくのそしき……。",
+   "en": "from the worlds of the past..."
+  },
+  {
+   "jp": "ジェネラル・シャドウののこした",
+   "en": "General Shadow spoke of"
+  },
+  {
+   "jp": "ゲームということば……。",
+   "en": "all of this as a \"game\"..."
+  },
+  {
+   "jp": "このたたかいに、いったい",
+   "en": "What could be the meaning"
+  },
+  {
+   "jp": "なんの、いみがあるのか……。",
+   "en": "behind this battle...?"
+  },
+  {
+   "jp": "そのすべてに、こたえがだせぬまま",
+   "en": "With none of their questions"
+  },
+  {
+   "jp": "せんしたちは、まえへとすすむ。",
+   "en": "answered, the warriors press on."
+  },
+  {
+   "jp": "やみのなかで、たたかいをみまもる",
+   "en": "Watching the battle from the dark"
+  },
+  {
+   "jp": "おとこ……、ジュダ。",
+   "en": "is one man... Juda."
+  },
+  {
+   "jp": "カレにみちびかれるように、",
+   "en": "As if led on by his hand,"
+  },
+  {
+   "jp": "せんしたちは、おくへとすすむ。",
+   "en": "the warriors venture deeper."
+  },
+  {
+   "jp": "カレらをまちうける",
+   "en": "What awaits them is"
+  },
+  {
+   "jp": "あらたな、たたかいのぶたい、",
+   "en": "a new stage of battle:"
+  },
+  {
+   "jp": "ヨウガンのもえたぎる、",
+   "en": "the scorching volcano zone,"
+  },
+  {
+   "jp": "しゃくねつのかざんちたいへと…。",
+   "en": "where molten lava boils..."
+  },
+  {
+   "jp": "ライダーをあつめ、たおすことが",
+   "en": "Gathering the Riders to destroy"
+  },
+  {
+   "jp": "カレらのもくてきであった。",
+   "en": "them - that was their true goal."
+  },
+  {
+   "jp": "だが、それがわかったからといって",
+   "en": "But even knowing that,"
+  },
+  {
+   "jp": "このまま、のばなしにはできない。",
+   "en": "the Riders cannot let it be."
+  },
+  {
+   "jp": "ワナであることをしりながら、",
+   "en": "Knowing full well it is a trap,"
+  },
+  {
+   "jp": "せんしたちは、すすみつづける。",
+   "en": "the warriors keep moving on,"
+  },
+  {
+   "jp": "かこの、しゅくてきのまつ、",
+   "en": "toward a new stage where"
+  },
+  {
+   "jp": "あらたなステージへ……、",
+   "en": "their old nemesis awaits..."
+  },
+  {
+   "jp": "うつくしいオーロラがかかる、",
+   "en": "into the snowfields beneath"
+  },
+  {
+   "jp": "せつげんちたいへと…。",
+   "en": "a beautiful aurora..."
+  },
+  {
+   "jp": "せんしたちは、これまでの",
+   "en": "The warriors looked back on"
+  },
+  {
+   "jp": "みちのりをふりかえっていた……。",
+   "en": "the long road behind them..."
+  },
+  {
+   "jp": "たたかいをゲームとしょうし、",
+   "en": "Juda calls this war a game,"
+  },
+  {
+   "jp": "もてあそぶ、ジュダのやりかた。",
+   "en": "toying with them for fun."
+  },
+  {
+   "jp": "のぞまぬたたかいをしいられる、",
+   "en": "Forced into a fight they never"
+  },
+  {
+   "jp": "むなしさ……、やるせなさ……。",
+   "en": "wanted... so empty, so bitter..."
+  },
+  {
+   "jp": "そのいかりをちからへとかえ、",
+   "en": "Turning that anger into power,"
+  },
+  {
+   "jp": "けっせんのちへと、おもむく。",
+   "en": "they head for the final battle,"
+  },
+  {
+   "jp": "なぞのおとこ、ジュダのまつ、",
+   "en": "to the enemy hideout where the"
+  },
+  {
+   "jp": "てきのアジトへと……！",
+   "en": "mysterious man, Juda, awaits...!"
+  }
+ ],
+ "_Data/Bonus/c_bunus.bin": [
+  {
+   "jp": "あらたに",
+   "en": "A new"
+  },
+  {
+   "jp": "なんいど　「きけん」が",
+   "en": "difficulty, \"Danger\","
+  },
+  {
+   "jp": "ついかされました",
+   "en": "has been added!"
+  },
+  {
+   "jp": "20の　なんいどを　クリア！",
+   "en": "Cleared 20 difficulties!"
+  },
+  {
+   "jp": "コイン　5000　ゲット！",
+   "en": "Got 5000 coins!"
+  },
+  {
+   "jp": "40の　なんいどを　クリア！",
+   "en": "Cleared 40 difficulties!"
+  },
+  {
+   "jp": "コイン　6000　ゲット！",
+   "en": "Got 6000 coins!"
+  },
+  {
+   "jp": "60の　なんいどを　クリア！",
+   "en": "Cleared 60 difficulties!"
+  },
+  {
+   "jp": "コイン　7000　ゲット！",
+   "en": "Got 7000 coins!"
+  },
+  {
+   "jp": "80の　なんいどを　クリア！",
+   "en": "Cleared 80 difficulties!"
+  },
+  {
+   "jp": "コイン　8000　ゲット！",
+   "en": "Got 8000 coins!"
+  },
+  {
+   "jp": "100の　なんいどを　クリア！",
+   "en": "Cleared 100 difficulties!"
+  },
+  {
+   "jp": "コイン　10000　ゲット！",
+   "en": "Got 10000 coins!"
+  },
+  {
+   "jp": "125の　なんいどを　クリア！",
+   "en": "Cleared 125 difficulties!"
+  },
+  {
+   "jp": "コイン　20000　ゲット！",
+   "en": "Got 20000 coins!"
+  },
+  {
+   "jp": "すばらしい！",
+   "en": "Amazing!"
+  },
+  {
+   "jp": "すべての　なんいどを　クリア！",
+   "en": "Cleared every difficulty!"
+  },
+  {
+   "jp": "コイン　50000　ゲット！",
+   "en": "Got 50000 coins!"
+  }
+ ],
+ "_Data/Bonus/m_bunus_total.bin": [
+  {
+   "jp": "ライフチャージを",
+   "en": "Life Charge capacity"
+  },
+  {
+   "jp": "４こ　もてるようになりました",
+   "en": "increased to 4!"
+  },
+  {
+   "jp": "アイテムの　ねだんが",
+   "en": "Item prices"
+  },
+  {
+   "jp": "やすくなりました",
+   "en": "have dropped!"
+  },
+  {
+   "jp": "さらに　やすくなりました",
+   "en": "have dropped even more!"
+  },
+  {
+   "jp": "５こ　もてるようになりました",
+   "en": "increased to 5!"
+  },
+  {
+   "jp": "なんいど",
+   "en": "Difficulty"
+  },
+  {
+   "jp": "「クライマックス」が",
+   "en": "\"Climax\""
+  },
+  {
+   "jp": "ついかされました",
+   "en": "unlocked!"
+  },
+  {
+   "jp": "７こ　もてるようになりました",
+   "en": "increased to 7!"
+  },
+  {
+   "jp": "すべての　ミッションを　クリア！",
+   "en": "All missions cleared!"
+  },
+  {
+   "jp": "９こ　もてるようになりました",
+   "en": "increased to 9!"
+  },
+  {
+   "jp": "「きけん」と",
+   "en": "\"Danger\" and"
+  }
+ ],
+ "_Data/Bonus/m_bunus_world.bin": [
+  {
+   "jp": "ワールド１に",
+   "en": "In World 1,"
+  },
+  {
+   "jp": "あらたなステージが",
+   "en": "new stages"
+  },
+  {
+   "jp": "ついか　されました",
+   "en": "are now open!"
+  },
+  {
+   "jp": "ワールド２に",
+   "en": "In World 2,"
+  },
+  {
+   "jp": "ワールド３に",
+   "en": "In World 3,"
+  },
+  {
+   "jp": "ワールド４に",
+   "en": "In World 4,"
+  },
+  {
+   "jp": "ワールド５に",
+   "en": "In World 5,"
+  }
+ ],
+ "_Data/Password/02.bin": [
+  {
+   "jp": "【フォーゼ】が",
+   "en": "[Fourze]"
+  },
+  {
+   "jp": "つかえるようになりました",
+   "en": "is now playable!"
+  },
+  {
+   "jp": "ワールド１に　ステージ",
+   "en": "New stage in World 1:"
+  },
+  {
+   "jp": "【いだいなかんぶ】が",
+   "en": "[Great Executive]"
+  },
+  {
+   "jp": "しゅつげんしました",
+   "en": "has appeared!"
+  },
+  {
+   "jp": "【ライバルのけったく】が",
+   "en": "[Rivals United]"
+  },
+  {
+   "jp": "ワールド２に　ステージ",
+   "en": "New stage in World 2:"
+  },
+  {
+   "jp": "【あだなすもの】が",
+   "en": "[Bringer of Harm]"
+  },
+  {
+   "jp": "【きょういのかがく】が",
+   "en": "[Fearsome Science]"
+  },
+  {
+   "jp": "ワールド３に　ステージ",
+   "en": "New stage in World 3:"
+  },
+  {
+   "jp": "【せいえいぶたい】が",
+   "en": "[Elite Squad]"
+  },
+  {
+   "jp": "【スピードラブ】が",
+   "en": "[Speed Love]"
+  },
+  {
+   "jp": "ワールド４に　ステージ",
+   "en": "New stage in World 4:"
+  },
+  {
+   "jp": "【いしゃとおに】が",
+   "en": "[Doctor and Oni]"
+  },
+  {
+   "jp": "【だとうＢＬＡＣＫ　ＲＸ】が",
+   "en": "[Defeat BLACK RX]"
+  },
+  {
+   "jp": "ワールド５に　ステージ",
+   "en": "New stage in World 5:"
+  },
+  {
+   "jp": "【かいじんのいじ】が",
+   "en": "[Monster Pride]"
+  },
+  {
+   "jp": "【ぜったいぜつめい】が",
+   "en": "[No Way Out]"
+  }
+ ],
+ "_Data/Password/03.bin": [
+  {
+   "jp": "【フォーゼ】が",
+   "en": "[Fourze]"
+  },
+  {
+   "jp": "つかえるようになりました",
+   "en": "is now playable!"
+  },
+  {
+   "jp": "ワールド１に　ステージ",
+   "en": "New stage in World 1:"
+  },
+  {
+   "jp": "【いだいなかんぶ】が",
+   "en": "[Great Executive]"
+  },
+  {
+   "jp": "しゅつげんしました",
+   "en": "has appeared!"
+  },
+  {
+   "jp": "【ライバルのけったく】が",
+   "en": "[Rivals United]"
+  },
+  {
+   "jp": "ワールド２に　ステージ",
+   "en": "New stage in World 2:"
+  },
+  {
+   "jp": "【あだなすもの】が",
+   "en": "[Bringer of Harm]"
+  },
+  {
+   "jp": "【きょういのかがく】が",
+   "en": "[Fearsome Science]"
+  },
+  {
+   "jp": "ワールド３に　ステージ",
+   "en": "New stage in World 3:"
+  },
+  {
+   "jp": "【せいえいぶたい】が",
+   "en": "[Elite Squad]"
+  },
+  {
+   "jp": "【スピードラブ】が",
+   "en": "[Speed Love]"
+  },
+  {
+   "jp": "ワールド４に　ステージ",
+   "en": "New stage in World 4:"
+  },
+  {
+   "jp": "【いしゃとおに】が",
+   "en": "[Doctor and Oni]"
+  },
+  {
+   "jp": "【だとうＢＬＡＣＫ　ＲＸ】が",
+   "en": "[Defeat BLACK RX]"
+  },
+  {
+   "jp": "ワールド５に　ステージ",
+   "en": "New stage in World 5:"
+  },
+  {
+   "jp": "【かいじんのいじ】が",
+   "en": "[Monster Pride]"
+  },
+  {
+   "jp": "【ぜったいぜつめい】が",
+   "en": "[No Way Out]"
+  }
+ ],
+ "_Data/Shop/shop_str.bin": [
+  {
+   "jp": "タイリョクをカイフクするエネルギー",
+   "en": "Energy that restores HP"
+  },
+  {
+   "jp": "コウゲキを　あるていどまで",
+   "en": "Attack up: Small"
+  },
+  {
+   "jp": "あげることが　できる",
+   "en": "A stat-boosting item."
+  },
+  {
+   "jp": "コウゲキを　よりおおく",
+   "en": "Attack up: Large"
+  },
+  {
+   "jp": "ボウギョを　あるていどまで",
+   "en": "Defense up: Small"
+  },
+  {
+   "jp": "ボウギョを　よりおおく",
+   "en": "Defense up: Large"
+  },
+  {
+   "jp": "１ごうの　ライダーのおしえの",
+   "en": "Rider 1's Rider Teachings"
+  },
+  {
+   "jp": "こうかアップ",
+   "en": "effect up"
+  },
+  {
+   "jp": "２ごうの　ふくつのとうしが",
+   "en": "Rider 2's Unbreakable Spirit"
+  },
+  {
+   "jp": "はつどう　しやすくなる",
+   "en": "triggers more easily"
+  },
+  {
+   "jp": "Ｖ３の　Ｖ３バリヤーの",
+   "en": "V3's V3 Barrier"
+  },
+  {
+   "jp": "こうかじかんが　のびる",
+   "en": "lasts longer"
+  },
+  {
+   "jp": "ライダーマンが",
+   "en": "Riderman"
+  },
+  {
+   "jp": "ちょうひっさつわざを　おぼえる",
+   "en": "learns a Super Finisher"
+  },
+  {
+   "jp": "Ｘが",
+   "en": "Rider X"
+  },
+  {
+   "jp": "アマゾンが",
+   "en": "Amazon"
+  },
+  {
+   "jp": "ストロンガーの",
+   "en": "Stronger's"
+  },
+  {
+   "jp": "じゅうでんそくどが　あがる",
+   "en": "charge speed goes up"
+  },
+  {
+   "jp": "スカイライダーの",
+   "en": "Skyrider's"
+  },
+  {
+   "jp": "セイリングジャンプ　きょりアップ",
+   "en": "Sailing Jump distance up"
+  },
+  {
+   "jp": "スーパー１の",
+   "en": "Super-1's"
+  },
+  {
+   "jp": "ひっさつわざの　せいのうアップ",
+   "en": "Finisher power up"
+  },
+  {
+   "jp": "ＺＸの",
+   "en": "ZX's"
+  },
+  {
+   "jp": "ＢＬＡＣＫの　バイタルチャージが",
+   "en": "BLACK's Vital Charge"
+  },
+  {
+   "jp": "２かい　チャージできるようになる",
+   "en": "can charge twice"
+  },
+  {
+   "jp": "BLACK　RXが",
+   "en": "BLACK RX"
+  },
+  {
+   "jp": "シンが",
+   "en": "Shin"
+  },
+  {
+   "jp": "ＺＯの",
+   "en": "ZO's"
+  },
+  {
+   "jp": "ヒーリングこうかアップ",
+   "en": "Healing effect up"
+  },
+  {
+   "jp": "Ｊの",
+   "en": "J's"
+  },
+  {
+   "jp": "Ｊパワーこうかアップ",
+   "en": "J Power effect up"
+  },
+  {
+   "jp": "クウガが",
+   "en": "Kuuga"
+  },
+  {
+   "jp": "アギトの　オルタチャージキックの",
+   "en": "Agito's Alter Charge Kick"
+  },
+  {
+   "jp": "ためじかんが　みじかくなる",
+   "en": "charges faster"
+  },
+  {
+   "jp": "りゅうきの",
+   "en": "Ryuki's"
+  },
+  {
+   "jp": "ドラグレッダーの　こうかアップ",
+   "en": "Dragreder effect up"
+  },
+  {
+   "jp": "ファイズが",
+   "en": "Faiz"
+  },
+  {
+   "jp": "ブレイドが　カードを２まい",
+   "en": "Blade can set"
+  },
+  {
+   "jp": "セットできるようになる",
+   "en": "two cards at once"
+  },
+  {
+   "jp": "ヒビキの",
+   "en": "Hibiki's"
+  },
+  {
+   "jp": "ディスクアニマルの　こうかアップ",
+   "en": "Disc Animal effect up"
+  },
+  {
+   "jp": "カブトの",
+   "en": "Kabuto's"
+  },
+  {
+   "jp": "クロックアップの　じかんがふえる",
+   "en": "Clock Up lasts longer"
+  },
+  {
+   "jp": "デンオウが",
+   "en": "Den-O"
+  },
+  {
+   "jp": "クライマックス！　になりやすくなる",
+   "en": "reaches Climax! more easily"
+  },
+  {
+   "jp": "キバの　キバットバットⅢせいの",
+   "en": "Kiva's Kivat-bat the 3rd"
+  },
+  {
+   "jp": "かいふくりょうが　ふえる",
+   "en": "heals more"
+  },
+  {
+   "jp": "ディケイドの　カメンライド",
+   "en": "Decade's Kamen Ride"
+  },
+  {
+   "jp": "できるライダーが　ふえる",
+   "en": "gains more Riders"
+  },
+  {
+   "jp": "Ｗの　それぞれの",
+   "en": "W's"
+  },
+  {
+   "jp": "フォームが　きょうかされる",
+   "en": "forms all get stronger"
+  },
+  {
+   "jp": "オーズが",
+   "en": "OOO"
+  },
+  {
+   "jp": "バースが",
+   "en": "Birth"
+  }
+ ]
+}

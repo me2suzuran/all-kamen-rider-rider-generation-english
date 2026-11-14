@@ -1,0 +1,1383 @@
+{
+ "Staffroll/word01#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    137,
+    80,
+    152
+   ],
+   "mode": "tile",
+   "from_x": 119,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Cast",
+   "rect": [
+    20,
+    137,
+    230,
+    155
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    3,
+    80,
+    22
+   ],
+   "mode": "tile",
+   "from_x": 119,
+   "period_x": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    5,
+    8,
+    16,
+    19
+   ],
+   "dst": [
+    3,
+    8
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Creator",
+   "rect": [
+    17,
+    5,
+    80,
+    22
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    54,
+    8,
+    65,
+    19
+   ],
+   "dst": [
+    67,
+    8
+   ]
+  }
+ ],
+ "Staffroll/word02#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    0,
+    80,
+    3
+   ],
+   "mode": "tile",
+   "from_x": 87,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Cast",
+   "rect": [
+    20,
+    -15,
+    230,
+    3
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word06#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    0,
+    168,
+    18
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Recording Coordination",
+   "rect": [
+    20,
+    0,
+    230,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    148,
+    107,
+    166
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Development",
+   "rect": [
+    20,
+    150,
+    96,
+    166
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    96,
+    152,
+    107,
+    163
+   ],
+   "dst": [
+    97,
+    152
+   ]
+  }
+ ],
+ "Staffroll/word07#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    55,
+    135,
+    85
+   ],
+   "mode": "tile",
+   "from_x": 151,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Director &\nMain Planner",
+   "rect": [
+    20,
+    55,
+    230,
+    85
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    136,
+    134,
+    153
+   ],
+   "mode": "tile",
+   "from_x": 151,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Battle Planner",
+   "rect": [
+    20,
+    136,
+    230,
+    153
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word08#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    5,
+    172,
+    35
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Direction Support\nPlanner",
+   "rect": [
+    20,
+    5,
+    230,
+    35
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    124,
+    149,
+    142
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Main Programmer",
+   "rect": [
+    20,
+    124,
+    230,
+    142
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word09#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    2,
+    108,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 135,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Programmer",
+   "rect": [
+    20,
+    2,
+    230,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    80,
+    106,
+    97
+   ],
+   "mode": "tile",
+   "from_x": 135,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Scripter",
+   "rect": [
+    20,
+    80,
+    230,
+    97
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    181,
+    132,
+    192
+   ],
+   "mode": "tile",
+   "from_x": 135,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Chief Designer",
+   "rect": [
+    20,
+    181,
+    230,
+    198
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word10#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    0,
+    132,
+    6
+   ],
+   "mode": "tile",
+   "from_x": 143,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Chief Designer",
+   "rect": [
+    20,
+    -11,
+    230,
+    6
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    55,
+    92,
+    72
+   ],
+   "mode": "tile",
+   "from_x": 143,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Designer",
+   "rect": [
+    20,
+    55,
+    230,
+    72
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word12#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    174,
+    112,
+    191
+   ],
+   "mode": "tile",
+   "from_x": 119,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "3D Designer",
+   "rect": [
+    20,
+    174,
+    230,
+    191
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word15#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    88,
+    78,
+    105
+   ],
+   "mode": "tile",
+   "from_x": 87,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Sound",
+   "rect": [
+    20,
+    88,
+    230,
+    105
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    164,
+    79,
+    181
+   ],
+   "mode": "tile",
+   "from_x": 87,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Scenario",
+   "rect": [
+    20,
+    164,
+    230,
+    181
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word16#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    64,
+    175,
+    81
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Product Manager",
+   "rect": [
+    20,
+    64,
+    230,
+    81
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word17#0": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    6,
+    52,
+    23
+   ],
+   "mode": "tile",
+   "from_x": 231,
+   "period_x": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    4,
+    6,
+    18,
+    23
+   ],
+   "dst": [
+    0,
+    6
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Supervision",
+   "rect": [
+    14,
+    6,
+    64,
+    23
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "10",
+   "bold": false,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    131,
+    172,
+    148
+   ],
+   "mode": "tile",
+   "from_x": 231,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Key Visual Design",
+   "rect": [
+    20,
+    131,
+    230,
+    148
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word18#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    0,
+    79,
+    16
+   ],
+   "mode": "tile",
+   "from_x": 151,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Debugging",
+   "rect": [
+    20,
+    -1,
+    230,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    97,
+    80,
+    114
+   ],
+   "mode": "tile",
+   "from_x": 151,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Support",
+   "rect": [
+    20,
+    97,
+    230,
+    114
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word22#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    90,
+    104,
+    107
+   ],
+   "mode": "tile",
+   "from_x": 111,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Media Strategy",
+   "rect": [
+    20,
+    90,
+    230,
+    107
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word23#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    5,
+    119,
+    22
+   ],
+   "mode": "tile",
+   "from_x": 127,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Promotion",
+   "rect": [
+    20,
+    5,
+    230,
+    22
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    124,
+    52,
+    141
+   ],
+   "mode": "tile",
+   "from_x": 127,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Sales",
+   "rect": [
+    20,
+    124,
+    230,
+    141
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word24#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    156,
+    106,
+    173
+   ],
+   "mode": "tile",
+   "from_x": 111,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Debug Support",
+   "rect": [
+    20,
+    156,
+    230,
+    173
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    82,
+    112,
+    112
+   ],
+   "mode": "tile",
+   "from_x": 111,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "And all our\nsales staff",
+   "rect": [
+    22,
+    84,
+    112,
+    112
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 0,
+   "lh": 13
+  }
+ ],
+ "Staffroll/word25#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    63,
+    147,
+    79
+   ],
+   "mode": "tile",
+   "from_x": 151,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Special Thanks",
+   "rect": [
+    20,
+    63,
+    230,
+    79
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word26#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    91,
+    199,
+    108
+   ],
+   "mode": "tile",
+   "from_x": 207,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Assistant Producer",
+   "rect": [
+    20,
+    91,
+    230,
+    108
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    175,
+    120,
+    192
+   ],
+   "mode": "tile",
+   "from_x": 207,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Producer",
+   "rect": [
+    20,
+    175,
+    230,
+    192
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word27#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    65,
+    175,
+    82
+   ],
+   "mode": "tile",
+   "from_x": 199,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Product Manager",
+   "rect": [
+    20,
+    65,
+    230,
+    82
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    189,
+    200,
+    192
+   ],
+   "mode": "tile",
+   "from_x": 199,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Executive Producer",
+   "rect": [
+    20,
+    189,
+    230,
+    206
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word28#0": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    0,
+    215,
+    14
+   ],
+   "mode": "tile",
+   "from_x": 223,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Executive Producer",
+   "rect": [
+    20,
+    -3,
+    230,
+    14
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "left",
+   "dy": 1
+  }
+ ],
+ "Staffroll/word00#0": [
+  {
+   "op": "fill",
+   "rect": [
+    80,
+    74,
+    160,
+    92
+   ],
+   "mode": "tile",
+   "from_x": 239,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "- Staff -",
+   "rect": [
+    80,
+    76,
+    160,
+    90
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "center",
+   "dy": 0
+  }
+ ],
+ "Staffroll/word29#0": [
+  {
+   "op": "fill",
+   "rect": [
+    48,
+    3,
+    128,
+    23
+   ],
+   "mode": "tile",
+   "from_x": 183,
+   "period_x": 1
+  },
+  {
+   "op": "copy",
+   "src": [
+    58,
+    8,
+    69,
+    19
+   ],
+   "dst": [
+    50,
+    8
+   ]
+  },
+  {
+   "op": "copy",
+   "src": [
+    107,
+    8,
+    118,
+    19
+   ],
+   "dst": [
+    116,
+    8
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Made by",
+   "rect": [
+    64,
+    5,
+    113,
+    22
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    0,
+    0,
+    0
+   ],
+   "font": "12",
+   "bold": true,
+   "align": "center",
+   "dy": 1
+  }
+ ]
+}

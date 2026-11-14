@@ -1,0 +1,10752 @@
+{
+ "WorldMap/narration00#0": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    192
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "The evil organizations, gathered",
+   "rect": [
+    0,
+    5,
+    256,
+    17
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "from the worlds of the past...",
+   "rect": [
+    0,
+    19,
+    256,
+    31
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "General Shadow spoke of",
+   "rect": [
+    0,
+    51,
+    256,
+    63
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "all of this as a \"game\"...",
+   "rect": [
+    0,
+    65,
+    256,
+    77
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "What could be the meaning",
+   "rect": [
+    0,
+    102,
+    256,
+    114
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "behind this battle...?",
+   "rect": [
+    0,
+    116,
+    256,
+    128
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "With none of their questions",
+   "rect": [
+    0,
+    152,
+    256,
+    164
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "answered, the warriors press on.",
+   "rect": [
+    0,
+    166,
+    256,
+    178
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/narration01#0": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    192
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Watching the battle from the dark",
+   "rect": [
+    0,
+    6,
+    256,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "is one man... Juda.",
+   "rect": [
+    0,
+    20,
+    256,
+    32
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "As if led on by his hand,",
+   "rect": [
+    0,
+    56,
+    256,
+    68
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "the warriors venture deeper.",
+   "rect": [
+    0,
+    70,
+    256,
+    82
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "What awaits them is",
+   "rect": [
+    0,
+    106,
+    256,
+    118
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "a new stage of battle:",
+   "rect": [
+    0,
+    120,
+    256,
+    132
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "the scorching volcano zone,",
+   "rect": [
+    0,
+    156,
+    256,
+    168
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "where molten lava boils...",
+   "rect": [
+    0,
+    170,
+    256,
+    182
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/narration02#0": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    192
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Gathering the Riders to destroy",
+   "rect": [
+    0,
+    1,
+    256,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "them - that was their true goal.",
+   "rect": [
+    0,
+    15,
+    256,
+    27
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "But even knowing that,",
+   "rect": [
+    0,
+    42,
+    256,
+    54
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "the Riders cannot let it be.",
+   "rect": [
+    0,
+    56,
+    256,
+    68
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "Knowing full well it is a trap,",
+   "rect": [
+    0,
+    83,
+    256,
+    95
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "the warriors keep moving on,",
+   "rect": [
+    0,
+    97,
+    256,
+    109
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "toward a new stage where",
+   "rect": [
+    0,
+    124,
+    256,
+    136
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "their old nemesis awaits...",
+   "rect": [
+    0,
+    138,
+    256,
+    150
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "into the snowfields beneath",
+   "rect": [
+    0,
+    165,
+    256,
+    177
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "a beautiful aurora...",
+   "rect": [
+    0,
+    179,
+    256,
+    191
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/narration03#0": [
+  {
+   "op": "fill",
+   "rect": [
+    0,
+    0,
+    256,
+    192
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "The warriors looked back on",
+   "rect": [
+    0,
+    1,
+    256,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "the long road behind them...",
+   "rect": [
+    0,
+    15,
+    256,
+    27
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "Juda calls this war a game,",
+   "rect": [
+    0,
+    42,
+    256,
+    54
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "toying with them for fun.",
+   "rect": [
+    0,
+    56,
+    256,
+    68
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "Forced into a fight they never",
+   "rect": [
+    0,
+    83,
+    256,
+    95
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "wanted... so empty, so bitter...",
+   "rect": [
+    0,
+    97,
+    256,
+    109
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "Turning that anger into power,",
+   "rect": [
+    0,
+    124,
+    256,
+    136
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "they head for the final battle,",
+   "rect": [
+    0,
+    138,
+    256,
+    150
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "to the enemy hideout where the",
+   "rect": [
+    0,
+    165,
+    256,
+    177
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "text",
+   "text": "mysterious man, Juda, awaits...!",
+   "rect": [
+    0,
+    179,
+    256,
+    191
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#6": [
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    8,
+    16,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Menu",
+   "rect": [
+    24,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#7": [
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    0,
+    16,
+    197
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    16,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    24,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Menu",
+   "rect": [
+    24,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#8": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "OK",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#9": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    8,
+    32,
+    148
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    16,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "OK",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#10": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Rider",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#11": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Rider",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    139,
+    0,
+    90
+   ],
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#12": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Rider",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    255,
+    16,
+    148
+   ],
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#13": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    189,
+    16,
+    172
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    189,
+    16,
+    172
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    189,
+    16,
+    172
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    189,
+    16,
+    172
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    172,
+    8,
+    148
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    156,
+    0,
+    131
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    139,
+    0,
+    106
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    139,
+    0,
+    106
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    139,
+    0,
+    106
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    139,
+    0,
+    106
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Rider",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    255,
+    16,
+    148
+   ],
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#14": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#15": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    8,
+    32,
+    148
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    16,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#16": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Close",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#17": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    8,
+    32,
+    148
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    16,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Close",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#18": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    24,
+    41,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Switch",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#19": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    3,
+    51,
+    4
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    4,
+    52,
+    5
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    5,
+    53,
+    6
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    6,
+    53,
+    7
+   ],
+   "color": [
+    16,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    53,
+    8
+   ],
+   "color": [
+    8,
+    32,
+    148
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    8,
+    53,
+    9
+   ],
+   "color": [
+    0,
+    16,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    9,
+    53,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    10,
+    53,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    11,
+    52,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    12,
+    51,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Switch",
+   "rect": [
+    15,
+    3,
+    53,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/up_etc#0": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    3,
+    57,
+    4
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    58,
+    5
+   ],
+   "color": [
+    0,
+    16,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    5,
+    59,
+    6
+   ],
+   "color": [
+    0,
+    16,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    6,
+    59,
+    7
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    7,
+    59,
+    8
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    8,
+    59,
+    9
+   ],
+   "color": [
+    0,
+    8,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    9,
+    59,
+    10
+   ],
+   "color": [
+    0,
+    8,
+    189
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    10,
+    59,
+    11
+   ],
+   "color": [
+    0,
+    16,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    11,
+    58,
+    12
+   ],
+   "color": [
+    0,
+    16,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    12,
+    57,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Switch",
+   "rect": [
+    26,
+    3,
+    59,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false,
+   "dx": -1
+  }
+ ],
+ "WorldMap/up_etc#18": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    3,
+    57,
+    4
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    58,
+    5
+   ],
+   "color": [
+    0,
+    0,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    5,
+    59,
+    6
+   ],
+   "color": [
+    0,
+    0,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    6,
+    59,
+    7
+   ],
+   "color": [
+    8,
+    16,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    7,
+    59,
+    8
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    8,
+    59,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    9,
+    59,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    10,
+    59,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    11,
+    58,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    12,
+    57,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Switch",
+   "rect": [
+    26,
+    3,
+    59,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false,
+   "dx": -1
+  }
+ ],
+ "WorldMap/up_etc#19": [
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    3,
+    53,
+    4
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    4,
+    54,
+    5
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    5,
+    55,
+    6
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    6,
+    55,
+    7
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    7,
+    55,
+    8
+   ],
+   "color": [
+    8,
+    41,
+    164
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    8,
+    55,
+    9
+   ],
+   "color": [
+    0,
+    8,
+    139
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    9,
+    55,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    10,
+    55,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    11,
+    54,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    12,
+    53,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    123
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    22,
+    3,
+    55,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/up_etc#20": [
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    3,
+    53,
+    4
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    4,
+    54,
+    5
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    5,
+    55,
+    6
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    6,
+    55,
+    7
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    7,
+    55,
+    8
+   ],
+   "color": [
+    24,
+    32,
+    65
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    8,
+    55,
+    9
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    9,
+    55,
+    10
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    10,
+    55,
+    11
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    11,
+    54,
+    12
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    22,
+    12,
+    53,
+    13
+   ],
+   "color": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back",
+   "rect": [
+    22,
+    3,
+    55,
+    13
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "font": "10",
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc02#24": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Easy",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#25": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Easy",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#26": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Normal",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#27": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Normal",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#28": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Hard",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#29": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Hard",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#30": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Danger",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#31": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Danger",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#32": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Climax",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc02#33": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    9,
+    82,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 80,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Climax",
+   "rect": [
+    16,
+    8,
+    80,
+    20
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    0,
+    0,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#0": [
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    6,
+    96,
+    16
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Level Select",
+   "rect": [
+    8,
+    5,
+    96,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 1
+  }
+ ],
+ "WorldMap/down_etc05#1": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Easy Mode",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    131,
+    131,
+    131
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#2": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Easy Mode",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#3": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Normal Mode",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    131,
+    131,
+    131
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#4": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Normal Mode",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#5": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    90,
+    15
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    84,
+    16
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    85,
+    17
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back to Title",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    131,
+    131,
+    131
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#6": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    90,
+    15
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    84,
+    16
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    85,
+    17
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Back to Title",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#7": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    32,
+    49,
+    49
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    24,
+    32,
+    41
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Close Menu",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    131,
+    131,
+    131
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#8": [
+  {
+   "op": "fill",
+   "rect": [
+    15,
+    7,
+    95,
+    8
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    8,
+    96,
+    9
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    9,
+    97,
+    10
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    10,
+    97,
+    11
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    11,
+    96,
+    12
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    10,
+    12,
+    95,
+    13
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    13,
+    94,
+    14
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    14,
+    93,
+    15
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    8,
+    15,
+    92,
+    16
+   ],
+   "color": [
+    0,
+    90,
+    213
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    16,
+    91,
+    17
+   ],
+   "color": [
+    0,
+    65,
+    180
+   ]
+  },
+  {
+   "op": "text",
+   "text": "Close Menu",
+   "rect": [
+    10,
+    6,
+    94,
+    18
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc05#11": [
+  {
+   "op": "fill",
+   "rect": [
+    14,
+    0,
+    86,
+    12
+   ],
+   "mode": "inpaint",
+   "min_luma": 150,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Switch Mode",
+   "rect": [
+    14,
+    0,
+    87,
+    12
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "shadow": [
+    16,
+    16,
+    98
+   ],
+   "bold": false,
+   "align": "left",
+   "dx": 2
+  }
+ ],
+ "WorldMap/down_etc01#0": [
+  {
+   "op": "fill",
+   "rect": [
+    48,
+    19,
+    192,
+    38
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     41,
+     41
+    ],
+    [
+     74,
+     41,
+     41
+    ],
+    [
+     82,
+     41,
+     24
+    ],
+    [
+     82,
+     49,
+     41
+    ],
+    [
+     90,
+     57,
+     57
+    ],
+    [
+     98,
+     49,
+     24
+    ],
+    [
+     106,
+     41,
+     8
+    ],
+    [
+     115,
+     41,
+     0
+    ],
+    [
+     131,
+     49,
+     0
+    ],
+    [
+     131,
+     57,
+     0
+    ],
+    [
+     139,
+     57,
+     0
+    ],
+    [
+     139,
+     65,
+     0
+    ],
+    [
+     139,
+     74,
+     24
+    ],
+    [
+     156,
+     65,
+     0
+    ],
+    [
+     156,
+     74,
+     0
+    ],
+    [
+     156,
+     90,
+     32
+    ],
+    [
+     164,
+     98,
+     0
+    ],
+    [
+     164,
+     106,
+     49
+    ],
+    [
+     172,
+     82,
+     0
+    ],
+    [
+     172,
+     115,
+     0
+    ],
+    [
+     172,
+     123,
+     74
+    ],
+    [
+     180,
+     90,
+     0
+    ],
+    [
+     180,
+     123,
+     16
+    ],
+    [
+     180,
+     139,
+     49
+    ],
+    [
+     189,
+     98,
+     0
+    ],
+    [
+     189,
+     139,
+     74
+    ],
+    [
+     189,
+     139,
+     98
+    ],
+    [
+     197,
+     106,
+     0
+    ],
+    [
+     197,
+     139,
+     16
+    ],
+    [
+     197,
+     156,
+     115
+    ],
+    [
+     197,
+     164,
+     131
+    ],
+    [
+     205,
+     115,
+     0
+    ],
+    [
+     205,
+     156,
+     8
+    ],
+    [
+     205,
+     172,
+     65
+    ],
+    [
+     205,
+     172,
+     123
+    ],
+    [
+     213,
+     123,
+     0
+    ],
+    [
+     213,
+     131,
+     0
+    ],
+    [
+     213,
+     172,
+     0
+    ],
+    [
+     213,
+     189,
+     131
+    ],
+    [
+     213,
+     189,
+     148
+    ],
+    [
+     222,
+     139,
+     0
+    ],
+    [
+     222,
+     189,
+     0
+    ],
+    [
+     222,
+     197,
+     123
+    ],
+    [
+     222,
+     197,
+     156
+    ],
+    [
+     222,
+     197,
+     180
+    ],
+    [
+     230,
+     139,
+     0
+    ],
+    [
+     230,
+     148,
+     0
+    ],
+    [
+     230,
+     197,
+     0
+    ],
+    [
+     230,
+     213,
+     131
+    ],
+    [
+     230,
+     213,
+     189
+    ],
+    [
+     238,
+     148,
+     0
+    ],
+    [
+     238,
+     164,
+     0
+    ],
+    [
+     238,
+     205,
+     32
+    ],
+    [
+     238,
+     213,
+     41
+    ],
+    [
+     238,
+     222,
+     0
+    ],
+    [
+     238,
+     222,
+     115
+    ],
+    [
+     238,
+     222,
+     189
+    ],
+    [
+     238,
+     238,
+     180
+    ],
+    [
+     246,
+     172,
+     0
+    ],
+    [
+     246,
+     213,
+     0
+    ],
+    [
+     246,
+     230,
+     49
+    ],
+    [
+     246,
+     238,
+     0
+    ],
+    [
+     246,
+     238,
+     131
+    ],
+    [
+     246,
+     238,
+     213
+    ],
+    [
+     246,
+     246,
+     0
+    ],
+    [
+     246,
+     246,
+     148
+    ],
+    [
+     255,
+     197,
+     0
+    ],
+    [
+     255,
+     238,
+     57
+    ],
+    [
+     255,
+     246,
+     0
+    ],
+    [
+     255,
+     246,
+     57
+    ],
+    [
+     255,
+     255,
+     164
+    ],
+    [
+     255,
+     255,
+     172
+    ],
+    [
+     255,
+     255,
+     213
+    ],
+    [
+     255,
+     255,
+     230
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Stage Clear Bonus",
+   "rect": [
+    48,
+    21,
+    192,
+    35
+   ],
+   "color": [
+    255,
+    222,
+    49
+   ],
+   "outline": [
+    115,
+    41,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc01#1": [
+  {
+   "op": "fill",
+   "rect": [
+    20,
+    4,
+    124,
+    22
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     41,
+     41
+    ],
+    [
+     74,
+     41,
+     41
+    ],
+    [
+     82,
+     41,
+     24
+    ],
+    [
+     82,
+     49,
+     41
+    ],
+    [
+     90,
+     57,
+     57
+    ],
+    [
+     98,
+     49,
+     24
+    ],
+    [
+     106,
+     41,
+     8
+    ],
+    [
+     115,
+     41,
+     0
+    ],
+    [
+     131,
+     49,
+     0
+    ],
+    [
+     131,
+     57,
+     0
+    ],
+    [
+     139,
+     57,
+     0
+    ],
+    [
+     139,
+     65,
+     0
+    ],
+    [
+     139,
+     74,
+     24
+    ],
+    [
+     156,
+     65,
+     0
+    ],
+    [
+     156,
+     74,
+     0
+    ],
+    [
+     156,
+     90,
+     32
+    ],
+    [
+     164,
+     98,
+     0
+    ],
+    [
+     164,
+     106,
+     49
+    ],
+    [
+     172,
+     82,
+     0
+    ],
+    [
+     172,
+     115,
+     0
+    ],
+    [
+     172,
+     123,
+     74
+    ],
+    [
+     180,
+     90,
+     0
+    ],
+    [
+     180,
+     123,
+     16
+    ],
+    [
+     180,
+     139,
+     49
+    ],
+    [
+     189,
+     98,
+     0
+    ],
+    [
+     189,
+     139,
+     74
+    ],
+    [
+     189,
+     139,
+     98
+    ],
+    [
+     197,
+     106,
+     0
+    ],
+    [
+     197,
+     139,
+     16
+    ],
+    [
+     197,
+     156,
+     115
+    ],
+    [
+     205,
+     115,
+     0
+    ],
+    [
+     205,
+     156,
+     8
+    ],
+    [
+     205,
+     172,
+     65
+    ],
+    [
+     205,
+     172,
+     123
+    ],
+    [
+     213,
+     123,
+     0
+    ],
+    [
+     213,
+     131,
+     0
+    ],
+    [
+     213,
+     172,
+     0
+    ],
+    [
+     213,
+     189,
+     131
+    ],
+    [
+     213,
+     189,
+     148
+    ],
+    [
+     213,
+     189,
+     172
+    ],
+    [
+     222,
+     139,
+     0
+    ],
+    [
+     222,
+     189,
+     0
+    ],
+    [
+     222,
+     197,
+     156
+    ],
+    [
+     222,
+     197,
+     180
+    ],
+    [
+     230,
+     139,
+     0
+    ],
+    [
+     230,
+     148,
+     0
+    ],
+    [
+     230,
+     197,
+     0
+    ],
+    [
+     230,
+     213,
+     131
+    ],
+    [
+     230,
+     213,
+     189
+    ],
+    [
+     238,
+     148,
+     0
+    ],
+    [
+     238,
+     164,
+     0
+    ],
+    [
+     238,
+     213,
+     41
+    ],
+    [
+     238,
+     222,
+     0
+    ],
+    [
+     238,
+     222,
+     115
+    ],
+    [
+     238,
+     222,
+     189
+    ],
+    [
+     246,
+     172,
+     0
+    ],
+    [
+     246,
+     213,
+     0
+    ],
+    [
+     246,
+     238,
+     0
+    ],
+    [
+     246,
+     238,
+     131
+    ],
+    [
+     246,
+     238,
+     213
+    ],
+    [
+     246,
+     246,
+     0
+    ],
+    [
+     246,
+     246,
+     148
+    ],
+    [
+     255,
+     197,
+     0
+    ],
+    [
+     255,
+     238,
+     57
+    ],
+    [
+     255,
+     255,
+     164
+    ],
+    [
+     255,
+     255,
+     213
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Clear Bonus",
+   "rect": [
+    20,
+    5,
+    124,
+    19
+   ],
+   "color": [
+    255,
+    222,
+    49
+   ],
+   "outline": [
+    115,
+    41,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc01#2": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    132,
+    22
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     41,
+     41
+    ],
+    [
+     74,
+     41,
+     41
+    ],
+    [
+     82,
+     41,
+     24
+    ],
+    [
+     82,
+     49,
+     41
+    ],
+    [
+     90,
+     57,
+     57
+    ],
+    [
+     98,
+     49,
+     24
+    ],
+    [
+     106,
+     41,
+     8
+    ],
+    [
+     115,
+     41,
+     0
+    ],
+    [
+     131,
+     49,
+     0
+    ],
+    [
+     131,
+     57,
+     0
+    ],
+    [
+     139,
+     57,
+     0
+    ],
+    [
+     139,
+     65,
+     0
+    ],
+    [
+     139,
+     74,
+     24
+    ],
+    [
+     156,
+     65,
+     0
+    ],
+    [
+     156,
+     74,
+     0
+    ],
+    [
+     156,
+     90,
+     32
+    ],
+    [
+     164,
+     98,
+     0
+    ],
+    [
+     164,
+     106,
+     49
+    ],
+    [
+     172,
+     82,
+     0
+    ],
+    [
+     172,
+     115,
+     0
+    ],
+    [
+     172,
+     123,
+     74
+    ],
+    [
+     180,
+     90,
+     0
+    ],
+    [
+     180,
+     123,
+     16
+    ],
+    [
+     180,
+     139,
+     49
+    ],
+    [
+     189,
+     98,
+     0
+    ],
+    [
+     189,
+     139,
+     74
+    ],
+    [
+     189,
+     139,
+     98
+    ],
+    [
+     197,
+     106,
+     0
+    ],
+    [
+     197,
+     139,
+     16
+    ],
+    [
+     197,
+     156,
+     115
+    ],
+    [
+     205,
+     115,
+     0
+    ],
+    [
+     205,
+     156,
+     8
+    ],
+    [
+     205,
+     172,
+     65
+    ],
+    [
+     205,
+     172,
+     123
+    ],
+    [
+     213,
+     123,
+     0
+    ],
+    [
+     213,
+     131,
+     0
+    ],
+    [
+     213,
+     172,
+     0
+    ],
+    [
+     213,
+     189,
+     131
+    ],
+    [
+     213,
+     189,
+     148
+    ],
+    [
+     213,
+     189,
+     172
+    ],
+    [
+     222,
+     139,
+     0
+    ],
+    [
+     222,
+     189,
+     0
+    ],
+    [
+     222,
+     197,
+     123
+    ],
+    [
+     222,
+     197,
+     156
+    ],
+    [
+     222,
+     197,
+     180
+    ],
+    [
+     230,
+     139,
+     0
+    ],
+    [
+     230,
+     148,
+     0
+    ],
+    [
+     230,
+     197,
+     0
+    ],
+    [
+     230,
+     213,
+     131
+    ],
+    [
+     230,
+     213,
+     189
+    ],
+    [
+     238,
+     148,
+     0
+    ],
+    [
+     238,
+     164,
+     0
+    ],
+    [
+     238,
+     205,
+     32
+    ],
+    [
+     238,
+     213,
+     41
+    ],
+    [
+     238,
+     222,
+     0
+    ],
+    [
+     238,
+     222,
+     115
+    ],
+    [
+     238,
+     222,
+     189
+    ],
+    [
+     238,
+     238,
+     180
+    ],
+    [
+     246,
+     172,
+     0
+    ],
+    [
+     246,
+     213,
+     0
+    ],
+    [
+     246,
+     230,
+     49
+    ],
+    [
+     246,
+     238,
+     0
+    ],
+    [
+     246,
+     238,
+     131
+    ],
+    [
+     246,
+     238,
+     213
+    ],
+    [
+     246,
+     246,
+     0
+    ],
+    [
+     246,
+     246,
+     148
+    ],
+    [
+     255,
+     197,
+     0
+    ],
+    [
+     255,
+     238,
+     57
+    ],
+    [
+     255,
+     255,
+     164
+    ],
+    [
+     255,
+     255,
+     213
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Mission Bonus",
+   "rect": [
+    12,
+    5,
+    132,
+    19
+   ],
+   "color": [
+    255,
+    222,
+    49
+   ],
+   "outline": [
+    115,
+    41,
+    0
+   ],
+   "bold": true
+  }
+ ],
+ "WorldMap/down_etc03#0": [
+  {
+   "op": "fill",
+   "rect": [
+    100,
+    3,
+    156,
+    17
+   ],
+   "mode": "tile",
+   "from_x": 160,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Menu",
+   "rect": [
+    96,
+    4,
+    160,
+    17
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": false
+  }
+ ],
+ "WorldMap/down_etc04#0": [
+  {
+   "op": "fill",
+   "rect": [
+    40,
+    24,
+    216,
+    78
+   ],
+   "mode": "inpaint",
+   "min_luma": 120,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Autosaving.....\nDo not turn off the power\nor remove the DS Card.",
+   "rect": [
+    24,
+    26,
+    232,
+    76
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "lh": 18
+  }
+ ],
+ "WorldMap/up_bg": [
+  {
+   "op": "fill",
+   "rect": [
+    38,
+    30,
+    90,
+    44
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Stage",
+   "rect": [
+    38,
+    31,
+    110,
+    43
+   ],
+   "color": [
+    99,
+    206,
+    255
+   ],
+   "outline": [
+    0,
+    16,
+    123
+   ],
+   "bold": true,
+   "align": "left",
+   "dx": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    33,
+    72,
+    100,
+    88
+   ],
+   "mode": "tile",
+   "from_x": 115,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Mission",
+   "rect": [
+    33,
+    73,
+    120,
+    87
+   ],
+   "color": [
+    255,
+    222,
+    49
+   ],
+   "outline": [
+    41,
+    24,
+    24
+   ],
+   "bold": true,
+   "align": "left",
+   "dx": 2
+  }
+ ],
+ "Event/Shift/hero_choice00#0": [
+  {
+   "op": "fill",
+   "rect": [
+    37,
+    3,
+    172,
+    17
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     106,
+     41,
+     115
+    ],
+    [
+     115,
+     57,
+     123
+    ],
+    [
+     131,
+     74,
+     131
+    ],
+    [
+     139,
+     90,
+     148
+    ],
+    [
+     156,
+     106,
+     156
+    ],
+    [
+     164,
+     123,
+     172
+    ],
+    [
+     172,
+     139,
+     180
+    ],
+    [
+     189,
+     156,
+     189
+    ],
+    [
+     197,
+     172,
+     205
+    ],
+    [
+     213,
+     189,
+     213
+    ],
+    [
+     222,
+     205,
+     222
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    37,
+    19,
+    172,
+    33
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     106,
+     41,
+     115
+    ],
+    [
+     115,
+     57,
+     123
+    ],
+    [
+     131,
+     74,
+     131
+    ],
+    [
+     139,
+     90,
+     148
+    ],
+    [
+     156,
+     106,
+     156
+    ],
+    [
+     164,
+     123,
+     172
+    ],
+    [
+     172,
+     139,
+     180
+    ],
+    [
+     189,
+     156,
+     189
+    ],
+    [
+     197,
+     172,
+     205
+    ],
+    [
+     213,
+     189,
+     213
+    ],
+    [
+     222,
+     205,
+     222
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    37,
+    35,
+    172,
+    49
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     106,
+     41,
+     115
+    ],
+    [
+     115,
+     57,
+     123
+    ],
+    [
+     131,
+     74,
+     131
+    ],
+    [
+     139,
+     90,
+     148
+    ],
+    [
+     156,
+     106,
+     156
+    ],
+    [
+     164,
+     123,
+     172
+    ],
+    [
+     172,
+     139,
+     180
+    ],
+    [
+     189,
+     156,
+     189
+    ],
+    [
+     197,
+     172,
+     205
+    ],
+    [
+     213,
+     189,
+     213
+    ],
+    [
+     222,
+     205,
+     222
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Swap Player",
+   "rect": [
+    38,
+    4,
+    172,
+    17
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 1
+  },
+  {
+   "op": "text",
+   "text": "Swap Partner",
+   "rect": [
+    38,
+    19,
+    172,
+    32
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 1
+  },
+  {
+   "op": "text",
+   "text": "Don't Swap",
+   "rect": [
+    38,
+    35,
+    172,
+    48
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 1
+  }
+ ],
+ "Event/Shift/hero_choice01#0": [
+  {
+   "op": "fill",
+   "rect": [
+    35,
+    3,
+    172,
+    18
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     65,
+     65
+    ],
+    [
+     106,
+     41,
+     115
+    ],
+    [
+     115,
+     57,
+     123
+    ],
+    [
+     131,
+     74,
+     131
+    ],
+    [
+     131,
+     156,
+     172
+    ],
+    [
+     139,
+     90,
+     148
+    ],
+    [
+     156,
+     106,
+     156
+    ],
+    [
+     164,
+     123,
+     172
+    ],
+    [
+     172,
+     139,
+     180
+    ],
+    [
+     189,
+     156,
+     189
+    ],
+    [
+     197,
+     172,
+     205
+    ],
+    [
+     213,
+     189,
+     213
+    ],
+    [
+     222,
+     205,
+     222
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    35,
+    19,
+    172,
+    33
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     65,
+     65
+    ],
+    [
+     106,
+     41,
+     115
+    ],
+    [
+     115,
+     57,
+     123
+    ],
+    [
+     131,
+     74,
+     131
+    ],
+    [
+     131,
+     156,
+     172
+    ],
+    [
+     139,
+     90,
+     148
+    ],
+    [
+     156,
+     106,
+     156
+    ],
+    [
+     164,
+     123,
+     172
+    ],
+    [
+     172,
+     139,
+     180
+    ],
+    [
+     189,
+     156,
+     189
+    ],
+    [
+     197,
+     172,
+     205
+    ],
+    [
+     213,
+     189,
+     213
+    ],
+    [
+     222,
+     205,
+     222
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Swap with Player",
+   "rect": [
+    37,
+    4,
+    172,
+    17
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 2
+  },
+  {
+   "op": "text",
+   "text": "Make Partner",
+   "rect": [
+    37,
+    19,
+    172,
+    32
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left",
+   "dx": 2
+  }
+ ],
+ "Event/Shift/hero_voice01_0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    3,
+    140,
+    17
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     49,
+     189
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     65,
+     197
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     74,
+     197
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     139,
+     197
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     180,
+     156,
+     213
+    ],
+    [
+     189,
+     156,
+     230
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     172,
+     222
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    17,
+    208,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     74,
+     32,
+     139
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     90,
+     41,
+     156
+    ],
+    [
+     98,
+     32,
+     197
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     49,
+     156
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     49,
+     189
+    ],
+    [
+     106,
+     65,
+     164
+    ],
+    [
+     106,
+     74,
+     156
+    ],
+    [
+     115,
+     41,
+     205
+    ],
+    [
+     115,
+     57,
+     197
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     32,
+     238
+    ],
+    [
+     123,
+     65,
+     197
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     49,
+     246
+    ],
+    [
+     131,
+     74,
+     197
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     131,
+     98,
+     180
+    ],
+    [
+     139,
+     65,
+     246
+    ],
+    [
+     139,
+     98,
+     205
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     115,
+     189
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     82,
+     246
+    ],
+    [
+     156,
+     98,
+     246
+    ],
+    [
+     156,
+     106,
+     213
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     131,
+     222
+    ],
+    [
+     164,
+     139,
+     197
+    ],
+    [
+     172,
+     115,
+     246
+    ],
+    [
+     172,
+     139,
+     205
+    ],
+    [
+     172,
+     139,
+     222
+    ],
+    [
+     180,
+     131,
+     246
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     180,
+     156,
+     213
+    ],
+    [
+     189,
+     148,
+     255
+    ],
+    [
+     189,
+     156,
+     230
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     164,
+     255
+    ],
+    [
+     197,
+     172,
+     222
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     213,
+     197,
+     238
+    ],
+    [
+     222,
+     197,
+     246
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     222,
+     205,
+     246
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     238,
+     230,
+     255
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    31,
+    208,
+    45
+   ],
+   "mode": "inpaint",
+   "colors": [],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "[Rider 2]",
+   "rect": [
+    13,
+    3,
+    140,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "From here on,",
+   "rect": [
+    11,
+    17,
+    208,
+    30
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "I'll lend you a hand!",
+   "rect": [
+    12,
+    31,
+    208,
+    44
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  }
+ ],
+ "Event/Shift/hero_voice05_0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    3,
+    140,
+    17
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     90,
+     41,
+     148
+    ],
+    [
+     98,
+     32,
+     180
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     41,
+     189
+    ],
+    [
+     106,
+     49,
+     180
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     57,
+     197
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     65,
+     189
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     74,
+     205
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     156,
+     123,
+     197
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     123,
+     222
+    ],
+    [
+     164,
+     139,
+     197
+    ],
+    [
+     180,
+     139,
+     222
+    ],
+    [
+     180,
+     156,
+     213
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     197,
+     180,
+     222
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     246
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     238,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    17,
+    208,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     32,
+     156
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     90,
+     32,
+     172
+    ],
+    [
+     90,
+     41,
+     148
+    ],
+    [
+     98,
+     32,
+     180
+    ],
+    [
+     98,
+     32,
+     189
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     49,
+     156
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     41,
+     189
+    ],
+    [
+     106,
+     49,
+     180
+    ],
+    [
+     106,
+     65,
+     164
+    ],
+    [
+     106,
+     74,
+     148
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     115,
+     41,
+     205
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     57,
+     197
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     32,
+     238
+    ],
+    [
+     123,
+     65,
+     189
+    ],
+    [
+     123,
+     65,
+     205
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     57,
+     222
+    ],
+    [
+     131,
+     74,
+     205
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     131,
+     98,
+     189
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     148,
+     65,
+     255
+    ],
+    [
+     148,
+     90,
+     213
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     115,
+     189
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     156,
+     115,
+     213
+    ],
+    [
+     156,
+     123,
+     197
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     123,
+     222
+    ],
+    [
+     164,
+     139,
+     197
+    ],
+    [
+     180,
+     131,
+     246
+    ],
+    [
+     180,
+     139,
+     222
+    ],
+    [
+     180,
+     156,
+     213
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     164,
+     230
+    ],
+    [
+     197,
+     180,
+     222
+    ],
+    [
+     205,
+     164,
+     255
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     213,
+     180,
+     255
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     222,
+     197,
+     255
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     246
+    ],
+    [
+     230,
+     213,
+     255
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     238,
+     222,
+     246
+    ],
+    [
+     238,
+     230,
+     255
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    31,
+    208,
+    45
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     32,
+     115
+    ],
+    [
+     65,
+     41,
+     98
+    ],
+    [
+     74,
+     41,
+     106
+    ],
+    [
+     74,
+     57,
+     98
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     32,
+     156
+    ],
+    [
+     82,
+     49,
+     131
+    ],
+    [
+     90,
+     41,
+     148
+    ],
+    [
+     90,
+     57,
+     123
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     74,
+     123
+    ],
+    [
+     98,
+     74,
+     131
+    ],
+    [
+     106,
+     74,
+     148
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     90,
+     139
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     106,
+     156
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     139,
+     123,
+     156
+    ],
+    [
+     139,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     156,
+     139,
+     180
+    ],
+    [
+     164,
+     139,
+     197
+    ],
+    [
+     172,
+     156,
+     180
+    ],
+    [
+     180,
+     139,
+     222
+    ],
+    [
+     180,
+     156,
+     213
+    ],
+    [
+     189,
+     172,
+     197
+    ],
+    [
+     197,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     213,
+     205,
+     222
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     246
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "[Amazon]",
+   "rect": [
+    13,
+    3,
+    140,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Amazon remember this place!",
+   "rect": [
+    11,
+    17,
+    208,
+    30
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Amazon go with you!",
+   "rect": [
+    12,
+    31,
+    208,
+    44
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  }
+ ],
+ "Event/Shift/hero_voice11_0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    17,
+    208,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     90,
+     32,
+     180
+    ],
+    [
+     90,
+     41,
+     148
+    ],
+    [
+     90,
+     49,
+     156
+    ],
+    [
+     98,
+     41,
+     180
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     98,
+     57,
+     164
+    ],
+    [
+     106,
+     41,
+     197
+    ],
+    [
+     106,
+     49,
+     189
+    ],
+    [
+     106,
+     65,
+     156
+    ],
+    [
+     106,
+     65,
+     164
+    ],
+    [
+     115,
+     57,
+     197
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     74,
+     172
+    ],
+    [
+     115,
+     82,
+     172
+    ],
+    [
+     123,
+     32,
+     238
+    ],
+    [
+     123,
+     57,
+     205
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     90,
+     156
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     74,
+     213
+    ],
+    [
+     131,
+     82,
+     197
+    ],
+    [
+     131,
+     90,
+     180
+    ],
+    [
+     139,
+     57,
+     246
+    ],
+    [
+     139,
+     65,
+     238
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     139,
+     115,
+     189
+    ],
+    [
+     148,
+     98,
+     213
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     82,
+     246
+    ],
+    [
+     156,
+     115,
+     213
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     164,
+     123,
+     205
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     131,
+     222
+    ],
+    [
+     164,
+     139,
+     180
+    ],
+    [
+     172,
+     115,
+     246
+    ],
+    [
+     172,
+     139,
+     205
+    ],
+    [
+     180,
+     131,
+     246
+    ],
+    [
+     180,
+     139,
+     222
+    ],
+    [
+     180,
+     156,
+     197
+    ],
+    [
+     180,
+     164,
+     213
+    ],
+    [
+     189,
+     148,
+     255
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     164,
+     246
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     197,
+     222
+    ],
+    [
+     213,
+     180,
+     255
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     213,
+     197,
+     238
+    ],
+    [
+     213,
+     205,
+     222
+    ],
+    [
+     222,
+     197,
+     255
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     246
+    ],
+    [
+     230,
+     213,
+     255
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     238,
+     230,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    31,
+    208,
+    45
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     57,
+     32,
+     98
+    ],
+    [
+     65,
+     41,
+     98
+    ],
+    [
+     74,
+     49,
+     115
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     57,
+     106
+    ],
+    [
+     90,
+     41,
+     148
+    ],
+    [
+     90,
+     49,
+     156
+    ],
+    [
+     90,
+     57,
+     123
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     74,
+     123
+    ],
+    [
+     98,
+     74,
+     131
+    ],
+    [
+     106,
+     65,
+     156
+    ],
+    [
+     106,
+     74,
+     139
+    ],
+    [
+     106,
+     90,
+     131
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     74,
+     172
+    ],
+    [
+     115,
+     98,
+     139
+    ],
+    [
+     123,
+     90,
+     156
+    ],
+    [
+     123,
+     106,
+     148
+    ],
+    [
+     131,
+     106,
+     156
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     139,
+     106,
+     180
+    ],
+    [
+     139,
+     115,
+     189
+    ],
+    [
+     139,
+     123,
+     156
+    ],
+    [
+     139,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     172
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     156,
+     139,
+     172
+    ],
+    [
+     164,
+     139,
+     180
+    ],
+    [
+     172,
+     156,
+     189
+    ],
+    [
+     180,
+     156,
+     197
+    ],
+    [
+     180,
+     164,
+     213
+    ],
+    [
+     189,
+     172,
+     197
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     189,
+     205
+    ],
+    [
+     205,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     197,
+     222
+    ],
+    [
+     213,
+     205,
+     222
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     230,
+     222,
+     230
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "I'll never forgive you, Crisis!",
+   "rect": [
+    11,
+    17,
+    208,
+    30
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Come, let us go together!",
+   "rect": [
+    12,
+    31,
+    208,
+    44
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  }
+ ],
+ "Event/Shift/hero_voice23_0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    3,
+    140,
+    17
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     98,
+     41,
+     180
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     106,
+     74,
+     156
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     90,
+     164
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     148,
+     106,
+     189
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     115,
+     213
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     213
+    ],
+    [
+     164,
+     139,
+     189
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     205
+    ],
+    [
+     197,
+     172,
+     222
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    17,
+    208,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     90,
+     41,
+     164
+    ],
+    [
+     98,
+     41,
+     180
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     65,
+     148
+    ],
+    [
+     106,
+     74,
+     139
+    ],
+    [
+     106,
+     74,
+     156
+    ],
+    [
+     115,
+     41,
+     205
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     90,
+     164
+    ],
+    [
+     131,
+     74,
+     197
+    ],
+    [
+     131,
+     98,
+     180
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     148,
+     106,
+     189
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     115,
+     213
+    ],
+    [
+     156,
+     123,
+     213
+    ],
+    [
+     164,
+     123,
+     230
+    ],
+    [
+     164,
+     139,
+     189
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     205
+    ],
+    [
+     197,
+     172,
+     222
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    31,
+    208,
+    45
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     65,
+     32,
+     123
+    ],
+    [
+     65,
+     41,
+     90
+    ],
+    [
+     74,
+     32,
+     131
+    ],
+    [
+     74,
+     41,
+     115
+    ],
+    [
+     74,
+     49,
+     106
+    ],
+    [
+     74,
+     57,
+     98
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     41,
+     148
+    ],
+    [
+     82,
+     57,
+     115
+    ],
+    [
+     90,
+     32,
+     180
+    ],
+    [
+     90,
+     49,
+     148
+    ],
+    [
+     90,
+     57,
+     123
+    ],
+    [
+     90,
+     57,
+     131
+    ],
+    [
+     90,
+     74,
+     106
+    ],
+    [
+     98,
+     57,
+     148
+    ],
+    [
+     98,
+     65,
+     148
+    ],
+    [
+     98,
+     74,
+     123
+    ],
+    [
+     98,
+     82,
+     131
+    ],
+    [
+     106,
+     65,
+     164
+    ],
+    [
+     106,
+     74,
+     139
+    ],
+    [
+     106,
+     74,
+     156
+    ],
+    [
+     106,
+     90,
+     131
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     90,
+     139
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     164
+    ],
+    [
+     123,
+     106,
+     148
+    ],
+    [
+     131,
+     98,
+     180
+    ],
+    [
+     131,
+     106,
+     164
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     139,
+     123,
+     156
+    ],
+    [
+     139,
+     123,
+     164
+    ],
+    [
+     148,
+     106,
+     189
+    ],
+    [
+     148,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     156,
+     139,
+     172
+    ],
+    [
+     164,
+     131,
+     213
+    ],
+    [
+     164,
+     139,
+     189
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     172,
+     156,
+     180
+    ],
+    [
+     172,
+     156,
+     189
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     205
+    ],
+    [
+     197,
+     172,
+     222
+    ],
+    [
+     197,
+     189,
+     205
+    ],
+    [
+     197,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     213,
+     205,
+     222
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     230,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "[Kiva]",
+   "rect": [
+    13,
+    3,
+    140,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Um...",
+   "rect": [
+    11,
+    17,
+    208,
+    30
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Please let me help too!",
+   "rect": [
+    12,
+    31,
+    208,
+    44
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  }
+ ],
+ "Event/Shift/hero_voice24_0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    13,
+    3,
+    140,
+    17
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     98,
+     41,
+     180
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     41,
+     189
+    ],
+    [
+     106,
+     49,
+     189
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     74,
+     172
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     74,
+     205
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     139,
+     106,
+     189
+    ],
+    [
+     148,
+     98,
+     213
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     180,
+     148,
+     222
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     205,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     238,
+     222,
+     246
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    9,
+    17,
+    208,
+    31
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     74,
+     41,
+     115
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     41,
+     139
+    ],
+    [
+     90,
+     49,
+     148
+    ],
+    [
+     98,
+     32,
+     180
+    ],
+    [
+     98,
+     41,
+     180
+    ],
+    [
+     98,
+     41,
+     189
+    ],
+    [
+     98,
+     49,
+     164
+    ],
+    [
+     98,
+     57,
+     139
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     106,
+     41,
+     189
+    ],
+    [
+     106,
+     49,
+     189
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     115,
+     32,
+     230
+    ],
+    [
+     115,
+     41,
+     213
+    ],
+    [
+     115,
+     57,
+     189
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     74,
+     172
+    ],
+    [
+     123,
+     32,
+     246
+    ],
+    [
+     123,
+     65,
+     197
+    ],
+    [
+     123,
+     74,
+     180
+    ],
+    [
+     123,
+     74,
+     189
+    ],
+    [
+     123,
+     74,
+     197
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     131,
+     57,
+     238
+    ],
+    [
+     131,
+     74,
+     205
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     131,
+     98,
+     180
+    ],
+    [
+     139,
+     90,
+     205
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     139,
+     106,
+     189
+    ],
+    [
+     148,
+     65,
+     246
+    ],
+    [
+     148,
+     98,
+     213
+    ],
+    [
+     148,
+     106,
+     205
+    ],
+    [
+     148,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     82,
+     246
+    ],
+    [
+     156,
+     106,
+     213
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     164,
+     123,
+     213
+    ],
+    [
+     164,
+     131,
+     222
+    ],
+    [
+     164,
+     139,
+     189
+    ],
+    [
+     172,
+     115,
+     238
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     180,
+     131,
+     246
+    ],
+    [
+     180,
+     148,
+     222
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     180,
+     164,
+     213
+    ],
+    [
+     189,
+     156,
+     222
+    ],
+    [
+     189,
+     172,
+     197
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     164,
+     255
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     205,
+     180,
+     238
+    ],
+    [
+     205,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     222,
+     197,
+     255
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     222,
+     205,
+     238
+    ],
+    [
+     230,
+     213,
+     255
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     238,
+     222,
+     246
+    ],
+    [
+     238,
+     230,
+     255
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     246,
+     238,
+     255
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "fill",
+   "rect": [
+    11,
+    31,
+    208,
+    45
+   ],
+   "mode": "inpaint",
+   "colors": [
+    [
+     57,
+     32,
+     90
+    ],
+    [
+     65,
+     41,
+     98
+    ],
+    [
+     74,
+     41,
+     115
+    ],
+    [
+     82,
+     32,
+     148
+    ],
+    [
+     82,
+     41,
+     131
+    ],
+    [
+     82,
+     41,
+     139
+    ],
+    [
+     82,
+     57,
+     106
+    ],
+    [
+     90,
+     49,
+     148
+    ],
+    [
+     90,
+     57,
+     123
+    ],
+    [
+     98,
+     57,
+     139
+    ],
+    [
+     98,
+     57,
+     156
+    ],
+    [
+     98,
+     74,
+     123
+    ],
+    [
+     98,
+     74,
+     131
+    ],
+    [
+     106,
+     74,
+     139
+    ],
+    [
+     106,
+     74,
+     148
+    ],
+    [
+     106,
+     74,
+     164
+    ],
+    [
+     106,
+     90,
+     131
+    ],
+    [
+     115,
+     74,
+     164
+    ],
+    [
+     115,
+     90,
+     139
+    ],
+    [
+     123,
+     82,
+     172
+    ],
+    [
+     123,
+     90,
+     172
+    ],
+    [
+     123,
+     106,
+     148
+    ],
+    [
+     131,
+     82,
+     205
+    ],
+    [
+     131,
+     106,
+     148
+    ],
+    [
+     139,
+     106,
+     172
+    ],
+    [
+     139,
+     106,
+     189
+    ],
+    [
+     139,
+     123,
+     156
+    ],
+    [
+     139,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     164
+    ],
+    [
+     148,
+     123,
+     180
+    ],
+    [
+     148,
+     123,
+     189
+    ],
+    [
+     156,
+     123,
+     189
+    ],
+    [
+     156,
+     131,
+     189
+    ],
+    [
+     156,
+     131,
+     197
+    ],
+    [
+     156,
+     139,
+     180
+    ],
+    [
+     164,
+     139,
+     189
+    ],
+    [
+     172,
+     139,
+     213
+    ],
+    [
+     172,
+     156,
+     189
+    ],
+    [
+     180,
+     156,
+     205
+    ],
+    [
+     189,
+     172,
+     197
+    ],
+    [
+     189,
+     172,
+     213
+    ],
+    [
+     197,
+     172,
+     230
+    ],
+    [
+     197,
+     189,
+     205
+    ],
+    [
+     197,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     213
+    ],
+    [
+     205,
+     189,
+     222
+    ],
+    [
+     205,
+     189,
+     230
+    ],
+    [
+     213,
+     189,
+     238
+    ],
+    [
+     213,
+     205,
+     222
+    ],
+    [
+     222,
+     205,
+     230
+    ],
+    [
+     230,
+     222,
+     238
+    ],
+    [
+     246,
+     238,
+     246
+    ],
+    [
+     255,
+     255,
+     255
+    ]
+   ],
+   "tol": 0,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "[Decade]",
+   "rect": [
+    13,
+    3,
+    140,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "I get the gist of things.",
+   "rect": [
+    11,
+    17,
+    208,
+    30
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  },
+  {
+   "op": "text",
+   "text": "Guess I'll lend you a hand!",
+   "rect": [
+    12,
+    31,
+    208,
+    44
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "align": "left"
+  }
+ ]
+}

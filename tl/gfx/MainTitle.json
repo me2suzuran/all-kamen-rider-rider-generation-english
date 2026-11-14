@@ -1,0 +1,679 @@
+{
+ "MainTitle/down_etc0#0": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Continue",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc0#1": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Continue",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc0#2": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "New Game",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc0#3": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "New Game",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc0#4": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Password",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc0#5": [
+  {
+   "op": "fill",
+   "rect": [
+    26,
+    4,
+    94,
+    19
+   ],
+   "mode": "tile",
+   "from_x": 95,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Password",
+   "rect": [
+    18,
+    4,
+    104,
+    19
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc1#0": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    8,
+    244,
+    94
+   ],
+   "mode": "inpaint",
+   "min_luma": 120,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Save data already exists.\nIf you start a new game,\nyour current data will be\nerased. Is that OK?",
+   "rect": [
+    12,
+    10,
+    244,
+    92
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "lh": 18
+  },
+  {
+   "op": "fill",
+   "rect": [
+    72,
+    108,
+    100,
+    119
+   ],
+   "mode": "tile",
+   "from_x": 100,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    62,
+    107,
+    110,
+    120
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    150,
+    108,
+    191,
+    119
+   ],
+   "mode": "tile",
+   "from_x": 191,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    146,
+    107,
+    194,
+    120
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc1#5": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc1#6": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc1#7": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc1#8": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc2#0": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    8,
+    244,
+    94
+   ],
+   "mode": "inpaint",
+   "min_luma": 120,
+   "grow": 1
+  },
+  {
+   "op": "text",
+   "text": "Save data already exists.\nIf you start a new game,\nyour current data will be\nerased. Is that OK?",
+   "rect": [
+    12,
+    10,
+    244,
+    92
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true,
+   "lh": 18
+  },
+  {
+   "op": "fill",
+   "rect": [
+    72,
+    108,
+    100,
+    119
+   ],
+   "mode": "tile",
+   "from_x": 100,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    62,
+    107,
+    110,
+    120
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  },
+  {
+   "op": "fill",
+   "rect": [
+    150,
+    108,
+    191,
+    119
+   ],
+   "mode": "tile",
+   "from_x": 191,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    146,
+    107,
+    194,
+    120
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc2#5": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc2#6": [
+  {
+   "op": "fill",
+   "rect": [
+    18,
+    4,
+    44,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 44,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "Yes",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc2#7": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_etc2#8": [
+  {
+   "op": "fill",
+   "rect": [
+    12,
+    4,
+    50,
+    15
+   ],
+   "mode": "tile",
+   "from_x": 50,
+   "period_x": 1
+  },
+  {
+   "op": "text",
+   "text": "No",
+   "rect": [
+    8,
+    3,
+    56,
+    16
+   ],
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": null,
+   "bold": true
+  }
+ ],
+ "MainTitle/down_bg": [
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    167,
+    256,
+    168
+   ],
+   "color": [
+    213,
+    222,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    1,
+    168,
+    2,
+    181
+   ],
+   "color": [
+    213,
+    222,
+    238
+   ]
+  },
+  {
+   "op": "fill",
+   "rect": [
+    2,
+    168,
+    256,
+    181
+   ],
+   "color": [
+    24,
+    24,
+    32
+   ]
+  },
+  {
+   "op": "text",
+   "text": "English translation by me2suzuran",
+   "rect": [
+    2,
+    168,
+    256,
+    181
+   ],
+   "color": [
+    213,
+    222,
+    238
+   ],
+   "outline": null,
+   "font": "12",
+   "bold": false,
+   "align": "center"
+  }
+ ]
+}

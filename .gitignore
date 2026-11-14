@@ -1,0 +1,12 @@
+# Never commit game ROMs (copyrighted) - only the patch is shared
+*.nds
+*.srl
+*.sav
+*.dsv
+
+# Generated previews (python tools/gfxtl.py preview)
+tl/gfx/preview/
+tl/gfx/orig/
+
+__pycache__/
+*.pyc

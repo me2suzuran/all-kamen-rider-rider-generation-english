@@ -1,0 +1,272 @@
+{
+ "_Data/WorldMap/world01.bin": [
+  {
+   "jp": "オーズを\r\nプレイヤーにして\r\nクリアする",
+   "en": "Clear the stage\nplaying as OOO"
+  },
+  {
+   "jp": "１－１　いつわりのとし",
+   "en": "1-1 City of Lies"
+  },
+  {
+   "jp": "１－ショップ",
+   "en": "1-Shop"
+  },
+  {
+   "jp": "デンオウを ふくめて\r\nクリアする",
+   "en": "Clear with Den-O\nin the team"
+  },
+  {
+   "jp": "１－２　たたかいのこうや",
+   "en": "1-2 Battle Wastes"
+  },
+  {
+   "jp": "しょうがいぶつを\r\n10こ　いじょうこわして\r\nクリアする",
+   "en": "Clear after breaking\n10+ obstacles"
+  },
+  {
+   "jp": "１－３　しっそうちかつうろ",
+   "en": "1-3 Subway Sprint"
+  },
+  {
+   "jp": "ストロンガーの\r\nちょうひっさつわざで\r\nボスをたおす",
+   "en": "Beat the boss with\nStronger's\nSuper Finisher"
+  },
+  {
+   "jp": "１－ボス　カードにひそむかげ",
+   "en": "1-Boss Shadow in the Cards"
+  },
+  {
+   "jp": "しようせいげん \r\nライフチャージ　１こまで",
+   "en": "Limit:\nLife Charge x1"
+  },
+  {
+   "jp": "１－４　じごくのとっくん！",
+   "en": "1-4 Hell Training!"
+  },
+  {
+   "jp": "１－５　いだいなかんぶ",
+   "en": "1-5 Great Executive"
+  },
+  {
+   "jp": "１－６　ライバルのけったく",
+   "en": "1-6 Rivals United"
+  }
+ ],
+ "_Data/WorldMap/world02.bin": [
+  {
+   "jp": "ひっさつわざで\r\n15たい いじょう\r\nたおして クリアする",
+   "en": "Clear after beating\n15+ foes with\nFinishers"
+  },
+  {
+   "jp": "２－１　ふかきもりへと",
+   "en": "2-1 Deep Woods"
+  },
+  {
+   "jp": "プレイヤーのタイリョクが\r\nいちども はんぶんいかに\r\nならずに クリアする",
+   "en": "Clear without the\nplayer ever dropping\nbelow half HP"
+  },
+  {
+   "jp": "２－２　きりのいざない",
+   "en": "2-2 Lure of the Mist"
+  },
+  {
+   "jp": "１ごうと２ごうの\r\nタイリョクがはんぶんいかに\r\nならずにクリアする",
+   "en": "Clear without Rider 1\nor Rider 2 dropping\nbelow half HP"
+  },
+  {
+   "jp": "２－３　やみよのみつりん",
+   "en": "2-3 Night Jungle"
+  },
+  {
+   "jp": "２－ショップ",
+   "en": "2-Shop"
+  },
+  {
+   "jp": "ＺＯの\r\nちょうひっさつわざで\r\nボスをたおす",
+   "en": "Beat the boss with\nZO's Super Finisher"
+  },
+  {
+   "jp": "２－ボス　ねむりしきおく",
+   "en": "2-Boss Sleeping Memory"
+  },
+  {
+   "jp": "しようせいげん \r\nライフチャージ　１こまで",
+   "en": "Limit:\nLife Charge x1"
+  },
+  {
+   "jp": "２－４　しゅうげき",
+   "en": "2-4 Ambush"
+  },
+  {
+   "jp": "２－５　あだなすもの",
+   "en": "2-5 Bringer of Harm"
+  },
+  {
+   "jp": "２－６　きょういのかがく",
+   "en": "2-6 Fearsome Science"
+  }
+ ],
+ "_Data/WorldMap/world03.bin": [
+  {
+   "jp": "V3を\r\nプレイヤーにして\r\nクリアする",
+   "en": "Clear the stage\nplaying as V3"
+  },
+  {
+   "jp": "３－１　かざんちたい",
+   "en": "3-1 Volcano Zone"
+  },
+  {
+   "jp": "ファイズを\r\nプレイヤーにして\r\nクリアする",
+   "en": "Clear the stage\nplaying as Faiz"
+  },
+  {
+   "jp": "３－２　ほのおのロード",
+   "en": "3-2 Road of Flames"
+  },
+  {
+   "jp": "ディケイドの\r\nひっさつわざで8たいいじょう\r\nたおしてクリアする",
+   "en": "Clear after beating\n8+ foes with\nDecade's Finisher"
+  },
+  {
+   "jp": "３－３　しゃくねつ",
+   "en": "3-3 Scorching Heat"
+  },
+  {
+   "jp": "３－ショップ",
+   "en": "3-Shop"
+  },
+  {
+   "jp": "Ｘの\r\nちょうひっさつわざで\r\nボスをたおす",
+   "en": "Beat the boss with\nX's Super Finisher"
+  },
+  {
+   "jp": "３－ボス　たいようのさばき",
+   "en": "3-Boss Judgment of the Sun"
+  },
+  {
+   "jp": "しようせいげん\r\nライフチャージ　１こまで",
+   "en": "Limit:\nLife Charge x1"
+  },
+  {
+   "jp": "３－４　ごうかのしれん",
+   "en": "3-4 Trial by Fire"
+  },
+  {
+   "jp": "３－５　せいえいぶたい",
+   "en": "3-5 Elite Squad"
+  },
+  {
+   "jp": "３－６　スピードラブ",
+   "en": "3-6 Speed Love"
+  }
+ ],
+ "_Data/WorldMap/world04.bin": [
+  {
+   "jp": "プレイヤーのタイリョクが\r\nいちどもはんぶんいかに\r\nならずにクリアする",
+   "en": "Clear without the\nplayer ever dropping\nbelow half HP"
+  },
+  {
+   "jp": "４－１　こうざんちたい",
+   "en": "4-1 Mountain Zone"
+  },
+  {
+   "jp": "Ｗのひっさつわざで\r\n10たい　いじょうのてきを\r\nたおしてクリアする",
+   "en": "Clear after beating\n10+ foes with\nW's Finisher"
+  },
+  {
+   "jp": "４－２　こごえるどうくつ",
+   "en": "4-2 Frozen Cave"
+  },
+  {
+   "jp": "クウガかアギトの\r\nどちらかを　ふくめて\r\nクリアする",
+   "en": "Clear with Kuuga or\nAgito in the team"
+  },
+  {
+   "jp": "４－３　ゆきやま",
+   "en": "4-3 Snowy Peak"
+  },
+  {
+   "jp": "４－ショップ",
+   "en": "4-Shop"
+  },
+  {
+   "jp": "ＢＬＡＣＫかＢＬＡＣＫ ＲＸの\r\nちょうひっさつわざで\r\nボスをたおす",
+   "en": "Beat the boss with a\nBLACK or BLACK RX\nSuper Finisher"
+  },
+  {
+   "jp": "４－ボス　げっしょく",
+   "en": "4-Boss Lunar Eclipse"
+  },
+  {
+   "jp": "しようせいげん\r\nライフチャージ　１こまで",
+   "en": "Limit:\nLife Charge x1"
+  },
+  {
+   "jp": "４－４　ひょうてんか",
+   "en": "4-4 Below Zero"
+  },
+  {
+   "jp": "４－５　いしゃとおに",
+   "en": "4-5 Doctor and Oni"
+  },
+  {
+   "jp": "４－６　だとうBLACK　ＲＸ",
+   "en": "4-6 Defeat BLACK RX"
+  }
+ ],
+ "_Data/WorldMap/world05.bin": [
+  {
+   "jp": "オーズを\r\nプレイヤーにして\r\nクリアする",
+   "en": "Clear the stage\nplaying as OOO"
+  },
+  {
+   "jp": "５－１　せんにゅう",
+   "en": "5-1 Infiltration"
+  },
+  {
+   "jp": "ライフチャージを\r\nつかわずにクリアする",
+   "en": "Clear without using\na Life Charge"
+  },
+  {
+   "jp": "５－２　きょうこうとっぱ",
+   "en": "5-2 Breakthrough"
+  },
+  {
+   "jp": "ブレイドを\r\nプレイヤーにして\r\nクリアする",
+   "en": "Clear the stage\nplaying as Blade"
+  },
+  {
+   "jp": "５－３　トラップ",
+   "en": "5-3 Trap"
+  },
+  {
+   "jp": "５－ショップ",
+   "en": "5-Shop"
+  },
+  {
+   "jp": "オーズの\r\nちょうひっさつわざで\r\nボスをたおす",
+   "en": "Beat the boss with\nOOO's Super Finisher"
+  },
+  {
+   "jp": "５－ボス　ときのざいにん",
+   "en": "5-Boss Criminal of Time"
+  },
+  {
+   "jp": "５－４　ふりかかるひのこ",
+   "en": "5-4 Falling Sparks"
+  },
+  {
+   "jp": "しようせいげん\r\nライフチャージ　１こまで",
+   "en": "Limit:\nLife Charge x1"
+  },
+  {
+   "jp": "５－５　かいじんのいじ",
+   "en": "5-5 Monster Pride"
+  },
+  {
+   "jp": "５－６　ぜったいぜつめい",
+   "en": "5-6 No Way Out"
+  }
+ ]
+}
